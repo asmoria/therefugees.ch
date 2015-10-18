@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>{{ .Site.Title }} &middot; {{ .Title }}</title>
+    <meta name="generator" content="Hugo 0.14" />
+    <link href="/css/all.css" rel="stylesheet" />
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300|Montserrat:700' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="head">
+	<h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+	{{ partial "menu.html" . }}
+      </div>
+      <div id="content">

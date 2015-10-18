@@ -1,0 +1,10 @@
+baseurl = "http://therefugees.ch/"
+languageCode = "de-ch"
+title = "Projekt Refugees"
+
+[[menu.main]]
+    name = "Start"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "start"
+    url = "/"
