@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekt Refugees</title>
+    <link>http://therefugees.ch/</link>
+    <description>Recent content on Projekt Refugees</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Über Uns</title>
+      <link>http://therefugees.ch/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/about/</guid>
+      <description>&lt;p&gt;Wir sind &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://therefugees.ch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/index.html</guid>
+      <description>
+
+&lt;h1 id=&#34;das-projekt:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Das Projekt&lt;/h1&gt;
+
+&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung.&lt;/p&gt;
+
+&lt;p&gt;Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.&lt;/p&gt;
+
+&lt;p&gt;Gerade desshalb möchten Denis Deni und Alice Schönenbeger ein karitatives Theater-Projekt ins Leben rufen, dass die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
+Die Schönheit dieser Menschen und der verschiedenen Kulturen wollen wir zeigen, die Sprache, die Musik, die Gesichter 一 ohne Grenzen.&lt;/p&gt;
+
+&lt;p&gt;Dabei werden wir versuchen so authentisch wie möglich zu bleiben, denn die Refugees erzählen ihre Geschichte dem Publikum gleich selber, es werden also keine professionelle Schauspieler engagiert, sondern Flüchtlinge aus verschiedenen Ländern zur Improvisation und Kollektiv-Kreation eingeladen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
