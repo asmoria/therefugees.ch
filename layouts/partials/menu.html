@@ -1,8 +1,7 @@
 <ul id="mainmenu">
-{{ $currentNode := . }}
 {{ range .Site.Menus.main }}
   <li>
-    <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}">{{ .Pre }}{{ .Name }}</a>
+    <a href="{{ .URL }}">{{ .Name }}</a>
   </li>
 {{ end }}
 </ul>
