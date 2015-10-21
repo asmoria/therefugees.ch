@@ -1,8 +1,6 @@
 ---
 title ="Unterstütze uns"
-menu:
-  main:
-    weight: 100
+menu: "main"
 ---
 
 Interessiert? 
