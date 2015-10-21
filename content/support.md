@@ -1,7 +1,7 @@
----
-title ="Unterstütze uns"
++++
+title = "Unterstütze uns"
 menu = "main"
----
++++
 
 Interessiert? 
 Dann werden auch Sie ein Teil von Refugees oder unterstützen sie uns: 
