@@ -1,6 +1,6 @@
 ---
 title ="Unterstütze uns"
-menu: "main"
+menu = "main"
 ---
 
 Interessiert? 
