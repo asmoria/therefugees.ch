@@ -70,11 +70,12 @@ div#foot {
 
 ul#mainmenu {
     list-style-type: none;
-    margin: 120px auto 10px auto;
+    margin: 120px 0px 10px auto;
     padding: 0;
     text-align: center;
     font-family:"Montserrat";
-    max-width: 200px;
+    max-width: 500px;
+    width: 100%;
 }
 
 ul#mainmenu > li {
