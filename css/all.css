@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #A0522F;
-    background-color: #FDEFC3;
+    background-color: #493625;
+    /*background-color: #FDEFC3;*/
     height: 100%;
 }
 
@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5 {
 
 a {
     text-decoration: none;
-    color: #1C0A08;
+    color: #5F2F06;
 }
 
 a:hover {
@@ -86,13 +86,21 @@ ul#mainmenu > li {
 }
 
 ul#mainmenu > li > a {
-    border: 2px solid #1C0A08;
+    border: 2px solid #493625;
     display: block;
     padding: 2px 5px 2px 5px;
 }
 
 ul#mainmenu > li > a:hover {
-    background-color: #1C0A08;
+    background-color: #493625;
     text-decoration: none;
     color: #F4B02C;
+}
+
+label {
+    font-weight: bold;
+}
+
+label, textarea, input {
+    display: block;
 }
