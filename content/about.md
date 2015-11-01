@@ -2,19 +2,33 @@
 title: Über Uns
 menu: main
 ---
-Bereits in den vergangenen Jahren, jeweils zur Vorweihnachtszeit, hat Denis kontroverse Stücke inszeniert zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und dem Erdbeben in Haiti  (Bonjour Haiti).
-Auch dieses Jahr soll es ein Stück geben und welches Thema wäre aktueller als die Flüchtlings-Welle? 
-Dabei wollen wir weder auf die Tränendrüse drücken noch mit dem Finger auf Personen zeigen, sondern ganz menschlich an das Thema herangehen. Auch stellenweise mit einem gewissen Humor und Leichtigkeit. 
-Auf der Bühne werden Frauen und Männer verschiedenen Alters und unterschiedlicher Herkunft einen persönlichen Einblick in ihre Geschichte gewähren. Sie teilen, was sie bereit sind zu teilen. 
-Der Szenische Ablauf, sowie die theatrale Umsetzung werden koordiniert von Denis Deni in Co-Regie mit Alice Schönenberger.
+## Hintergrund
+In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis kontroverse Stücke inszeniert zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und dem Erdbeben in Haiti (Bonjour Haiti) und damit viel bewegen können und u.a. Organisationen wie ["MUmAs"](http://www.mumas.li/) ins Leben gerufen.
 
-Wer wir sind: 
+Ein kleiner Auszug der Presse zu den bisherigen Stücken: 
 
-## Denis Nayi
-Choreograph und Tänzer mit karibischen Wurzeln. Seit einigen Jahren engagiert er sich vor allem im Raum St. Gallen und dem Lichtenstein für Flüchtlinge, unterrichtet Tanz und Musik, und inszeniert jährlich ein Stück für humanitäre Zwecke während der Vorweihnachtszeit. Zu seinen treuen Unterstützern gehören unter anderem die Fürstin von Lichtenstein.
+* ["Mama Afrika" im TAK](http://www.tak.li/Auffuehrung.aspx?shmid=488&shact=-873150148&shmiid=GpT39Cfr0Mw__eql__)
 
-## Alice Schönenberger
-Ist diplomierte Bewegungsschauspielerin. Die St.Gallerin lebt und arbeitet seit vielen Jahren in Zürich und nach diversen Engagements als Schauspielerin, in Ensemblearbeit und im Tourneetheater, wagt sie den Schritt in die Regiearbeit und Projektleitung. 
+* ["Fesseln der Freiheit" Liechtensteinisches Volksblatt](http://www.volksblatt.li/nachricht.aspx?id=49659&src=vb)
 
-## Die Refugees
-Sind Menschen, die Denis und Alice auf der Strasse, in Cafés, in Asylheimen, irgendwo zwischen Zufall und Schicksal getroffen haben. Es gab kein Casting, keine profesionellen Schauspieler, sondern wir suchten Gespräche mit Persönlichkeiten, die bereit sind etwas von sich zu teilen und sich für dieses Projekt zu öffnen. Ihre Identitäten und Geschichten möchten wir aus Respekt zu diesem Zeitpunkt noch für uns behalten. 
+* ["Bonjour Haiti" Liechtensteiner Vaterland](http://www.vaterland.li/liechtenstein/kultur/Benefiz-Theater-Bonjour-Haiti-im-TAK;art175,90414)
+
+<center><img src="/fesselnderfreiheit.jpg"/> </center>
+
+Auch dieses Jahr soll es ein Stück geben, ein neues Projekt, und welches Thema wäre aktueller als die aktuelle Flüchtlings-Welle? 
+
+
+## Wer wir sind: 
+
+Refugees ist eine Idee von Denis Nayi und Alice Schönenberger. Doch dahinter steht ein Team aus Menschen, die uns in unserer Sache unterstützen. Sei es künstlerisch, organsisatorisch, technisch - ohne Hilfe wäre dieses Stück nicht möglich. Alle arbeiten sie ehrenamtlich und mit vollem Einsatz damit Refugees bewegt! 
+
+### Denis Nayi
+Choreograph und Tänzer mit karibischen Wurzeln. Seit vielen Jahren engagiert er sich für Flüchtlinge, unterrichtet Tanz und Musik, und inszeniert jährlich ein Stück für humanitäre Zwecke während der Vorweihnachtszeit. Zu seinen treuen Unterstützern gehören unter anderem die Fürstin von Liechtenstein.
+
+### Alice Schönenberger
+Ist diplomierte Bewegungsschauspielerin aus St.Gallen, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit und Projektleitung. 
+
+### Die Refugees
+Das sind Flüchtlinge verschienden Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
+
+Das Stück entsteht aus den Improvisationen der Refugees. 

@@ -5,14 +5,24 @@ name =  "Unterstütze uns"
 weight = 900
 +++
 
-Interessiert? 
-Dann werden auch Sie ein Teil von Refugees oder unterstützen sie uns: 
+## Interessiert? 
 
- - Wir suchen Proberäume im Raum Zürich
- - Wir suchen  Spielstätten
- - Sind dankbar für Spenden aller Art
+Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns: 
+
+ - Wir suchen Proberäume Umgebung Vaduz, Fürstentum Liechtenstein
+ - Sind dankbar für Spenden aller Art (Kollekte für Flüchtlingshilfe)
  - Empfehlen Sie uns weiter
 
 Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. 
 
-Bitte benutzen Sie das Kontaktformular.
+Bitte benutzen Sie das [Kontaktformular](http://127.0.0.1:1313/contact/).
+
+
+
+### Wir danken für die Unterstützung: 
+
+<img src="/RotesKreuz-Logo-Web.gif"/>
+
+Sowie: 
+
+Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/) u.v.m.
