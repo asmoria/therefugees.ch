@@ -9,31 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Unterstütze uns</title>
-      <link>http://therefugees.ch/support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/support/</guid>
-      <description>&lt;p&gt;Interessiert?
-Dann werden auch Sie ein Teil von Refugees oder unterstützen sie uns:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wir suchen Proberäume im Raum Zürich
-
-&lt;ul&gt;
-&lt;li&gt;Wir suchen  Spielstätten&lt;/li&gt;
-&lt;li&gt;Sind dankbar für Spenden aller Art&lt;/li&gt;
-&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/p&gt;
-
-&lt;p&gt;Bitte benutzen Sie das Kontaktformular.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Das Stück</title>
       <link>http://therefugees.ch/stueck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,6 +36,40 @@ Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins
 &lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
 &lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unterstütze uns</title>
+      <link>http://therefugees.ch/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/support/</guid>
+      <description>&lt;p&gt;Interessiert?
+Dann werden auch Sie ein Teil von Refugees oder unterstützen sie uns:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wir suchen Proberäume im Raum Zürich
+
+&lt;ul&gt;
+&lt;li&gt;Wir suchen  Spielstätten&lt;/li&gt;
+&lt;li&gt;Sind dankbar für Spenden aller Art&lt;/li&gt;
+&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/p&gt;
+
+&lt;p&gt;Bitte benutzen Sie das Kontaktformular.&lt;/p&gt;
 </description>
     </item>
     
