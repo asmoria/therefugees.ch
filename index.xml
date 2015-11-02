@@ -9,6 +9,26 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,7 +50,8 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.vaterland.li/liechtenstein/kultur/Benefiz-Theater-Bonjour-Haiti-im-TAK;art175,90414&#34;&gt;&amp;ldquo;Bonjour Haiti&amp;rdquo; Liechtensteiner Vaterland&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/fesselnderfreiheit.jpg&#34;/&gt; &lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/fesselnderfreiheit.jpg&#34;/&gt;&lt;/center&gt;
+&lt;P ALIGN=&#34;RIGHT&#34;&gt;&lt;FONT SIZE=&#34;2&#34;&gt;&lt;i&gt;Bild aus &amp;ldquo;Fesseln der Freiheit&amp;rdquo; 2012&lt;/i&gt;&lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/P ALIGN=&#34;RIGHT&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Auch dieses Jahr soll es ein Stück geben, ein neues Projekt, und welches Thema wäre aktueller als die aktuelle Flüchtlings-Welle?&lt;/p&gt;
 
@@ -55,22 +76,42 @@
     </item>
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
+      <title>Das Stück</title>
+      <link>http://therefugees.ch/stueck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
+      <guid>http://therefugees.ch/stueck/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
+
+&lt;p&gt;Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen.&lt;/p&gt;
+
+&lt;p&gt;Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color:#10420A&#34;&gt;&lt;FONT SIZE=&#34;2&#34;&gt;Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger&lt;br/&gt;
+Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein&lt;br/&gt;
+Musik: Schoschana Kobelt &amp;amp; Viviane Hasler&lt;br/&gt;
+Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)&lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/span style=&#34;color:#10420A&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;warum:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Warum?&lt;/h2&gt;
+
+&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung.
+Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
+Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, dass die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
+
+&lt;h3 id=&#34;ziele:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Ziele:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
+&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
+&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
+&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
+&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
+&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -91,7 +132,7 @@
 
 &lt;h4 id=&#34;span-style-color-f15303-news-refugees-feiert-premiere-am-mo-30-11-2015-19-00-uhr-span-style-color-f15303:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt; News: Refugees feiert Premiere am  MO 30.11.2015 19:00 Uhr &lt;/span style=&#34;color:#F15303&#34;&gt;&lt;/h4&gt;
 
-&lt;h4 id=&#34;aula-liechtensteinisches-gymnasium-marianumstrasse-45-9490-vaduz:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aula Liechtensteinisches Gymnasium, Marianumstrasse.45, 9490 Vaduz&lt;/h4&gt;
+&lt;h4 id=&#34;span-style-color-10420a-aula-liechtensteinisches-gymnasium-marianumstrasse-45-9490-vaduz-span-style-color-10420a:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;span style=&#34;color:#10420A&#34;&gt;Aula Liechtensteinisches Gymnasium, Marianumstrasse.45, 9490 Vaduz &lt;/span style=&#34;color:#10420A&#34;&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;b&gt;Eintritt frei!&lt;/b&gt; (freiwillige Kollekte für Flüchtlingshilfe des Roten Kreuzes)&lt;/p&gt;
 
@@ -99,6 +140,7 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10852.595785274201!2d9.499502113417401!3d47.154937199801374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b310a507ca393%3A0x5bc1fa00e8012a4c!2sMarianumstrasse+45%2C+9490+Vaduz%2C+Liechtenstein!5e0!3m2!1sde!2sch!4v1446478589785&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;
+&lt;br/&gt;
 &lt;br/&gt;
 &lt;center&gt;
 &lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;
@@ -119,44 +161,6 @@
 &lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
 
 &lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Das Stück</title>
-      <link>http://therefugees.ch/stueck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/stueck/</guid>
-      <description>
-
-&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
-
-&lt;p&gt;Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen.&lt;/p&gt;
-
-&lt;p&gt;Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.&lt;/p&gt;
-
-&lt;p&gt;&lt;FONT SIZE=&#34;2&#34;&gt;Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger&lt;br/&gt;
-Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein&lt;br/&gt;
-Musik: Schoschana Kobelt &amp;amp; Viviane Hasler&lt;br/&gt;
-Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)&lt;/FONT SIZE=&#34;5&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;warum:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Warum?&lt;/h2&gt;
-
-&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung.
-Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, dass die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
-
-&lt;h3 id=&#34;ziele:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Ziele:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
-&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
-&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
-&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
-&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
-&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
