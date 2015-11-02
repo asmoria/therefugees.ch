@@ -3,7 +3,7 @@ title: Über Uns
 menu: main
 ---
 ## Hintergrund
-In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis kontroverse Stücke inszeniert zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und dem Erdbeben in Haiti (Bonjour Haiti) und damit viel bewegen können und u.a. Organisationen wie ["MUmAs"](http://www.mumas.li/) ins Leben gerufen.
+In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis Nayi kontroverse Stücke inszeniert zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und dem Erdbeben in Haiti (Bonjour Haiti) und damit viel bewegen können. Auch war er beteiligt an der Gründung der Organisationen ["MUmAs"](http://www.mumas.li/).
 
 Ein kleiner Auszug der Presse zu den bisherigen Stücken: 
 
