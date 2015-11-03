@@ -27,7 +27,10 @@ Refugees ist eine Idee von Denis Nayi und Alice Schönenberger. Doch dahinter st
 Choreograph und Tänzer mit karibischen Wurzeln. Seit vielen Jahren engagiert er sich für Flüchtlinge, unterrichtet Tanz und Musik, und inszeniert jährlich ein Stück für humanitäre Zwecke während der Vorweihnachtszeit. Zu seinen treuen Unterstützern gehören unter anderem die Fürstin von Liechtenstein.
 
 ### Alice Schönenberger
-Ist diplomierte Bewegungsschauspielerin aus St.Gallen, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit und Projektleitung. 
+Diplomierte Bewegungsschauspielerin aus St.Gallen, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit und Projektleitung.
+
+### Petra Angelika Bublitz
+Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei diesem Projekt als Eventmanagerin ihr Potential auszuleben. 
 
 ### Die Refugees
 Das sind Flüchtlinge verschienden Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
