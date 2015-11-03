@@ -9,10 +9,12 @@ Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnu
 Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.
 
 
-> <span style="color:#10420A"><FONT SIZE="2">Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger<br/>
+> <span style="color:#10420A"><FONT SIZE="2">Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger <br/>
+Assistenz: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt & Viviane Hasler<br/>
-Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)</FONT SIZE="2"></span style="color:#10420A">
+Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)<br/>
+Projektleitung: </FONT SIZE="2"></span style="color:#10420A">
 
 ## Warum?
 
