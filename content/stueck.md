@@ -14,7 +14,7 @@ Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt & Viviane Hasler<br/>
 Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)<br/>
-Projektleitung: </FONT SIZE="2"></span style="color:#10420A">
+</FONT SIZE="2"></span style="color:#10420A">
 
 ## Warum?
 
