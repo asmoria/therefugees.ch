@@ -15,7 +15,7 @@ Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:
 
 Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. 
 
-Bitte benutzen Sie das [Kontaktformular](http://127.0.0.1:1313/contact/).
+Bitte benutzen Sie das [Kontaktformular](http://therefugees.ch/contact/).
 
 
 
