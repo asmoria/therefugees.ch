@@ -16,3 +16,11 @@ name = "Kontakt"
     <input type="submit" value="Abschicken">
 	<input type="hidden" name="_next" value="http://therefugees.ch/message-sent" />
 </form>
+
+
+
+
+<FONT SIZE="2">© 2015 www.therefugees.ch <br/>
+Texte & Inhalte by Alice Schönenberger
+<br/>
+Bild <i>Darfur Refugee in Chad</i> by [Surian Soosay](https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX) </FONT SIZE="2">
