@@ -22,7 +22,6 @@ Auch dieses Jahr soll es ein Stück geben, ein neues Projekt, und welches Thema 
 ## Wer wir sind: 
 
 Refugees ist eine Idee von Denis Nayi und Alice Schönenberger. Doch dahinter steht ein Team aus Menschen, die uns in unserer Sache unterstützen. Sei es künstlerisch, organsisatorisch, technisch - ohne Hilfe wäre dieses Stück nicht möglich. Alle arbeiten sie ehrenamtlich und mit vollem Einsatz damit Refugees bewegt! 
-
 ### Denis Nayi
 Choreograph und Tänzer mit karibischen Wurzeln. Seit vielen Jahren engagiert er sich für Flüchtlinge, unterrichtet Tanz und Musik, und inszeniert jährlich ein Stück für humanitäre Zwecke während der Vorweihnachtszeit. Zu seinen treuen Unterstützern gehören unter anderem die Fürstin von Liechtenstein.
 

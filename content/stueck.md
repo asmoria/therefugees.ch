@@ -6,7 +6,7 @@ name = "Das Stück"
 +++
 ## Das Stück
 
-Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen. 
+<i>Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen.</i> 
 
 Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.
 
@@ -15,7 +15,7 @@ Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre
 Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt & Viviane Hasler<br/>
-Ansprache: Dr.Hüseyin I. Cicek (Religionswissenschaftler)<br/>
+Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)<br/>
 </FONT SIZE="2"></span style="color:#10420A">
 
 ## Warum?

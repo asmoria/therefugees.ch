@@ -25,4 +25,4 @@ Bitte benutzen Sie das [Kontaktformular](http://therefugees.ch/contact/).
 
 Sowie: 
 
-Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/) u.v.m.
+Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/), Dr.Hüseyin I. Cicek, [Schoschana Kobelt](http://schoschanakobelt.ch/) u.v.m.
