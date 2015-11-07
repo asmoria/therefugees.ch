@@ -1,6 +1,8 @@
 +++
 title = "Das Stück"
-menu = "main"
+[menu.main]
+weight = -1
+name = "Das Stück"
 +++
 ## Das Stück
 
