@@ -9,32 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -82,6 +56,32 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;p&gt;Das sind Flüchtlinge verschienden Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte.&lt;/p&gt;
 
 &lt;p&gt;Das Stück entsteht aus den Improvisationen der Refugees.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -134,12 +134,6 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 
 &lt;p&gt;Es benötigt und fördert den direkten Austausch und fordert uns, über unsere Schatten zu springen. Dabei können Blockaden gelöst, Grenzen gesprengt werden und vielleicht auch etwas ganz Neues entstehen. Wir wissen es (noch) nicht.
 Es ist ein Versuch, ein Pflänzchen das noch wachsen darf.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;i&gt;&amp;ldquo;Jeder Mensch hat seine Geschichte, seine Träume und Wünsche. Genau die möchte ich aus ihnen herauskitzeln, eine Plattform bieten, sie mit anderen zu teilen. Und damit vielleicht die Welt ein wenig öffnen für uns alle.
-Ich möchte ein Stück erschaffen frei von Politik, Religion und Grenzen. Für mich sind Grenzen nur eine Fiktion, etwas dem ich mich nicht einfach fügen möchte. Mit Refugees kann ich diese Grenzen spielerisch lösen, mich mit andern Menschen verbünden zu einem künstlerischen Projekt das grösser ist als der Einzelne von uns.&amp;rdquo;
-Alice &lt;/i&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -154,6 +148,38 @@ Alice &lt;/i&gt;&lt;/p&gt;
 &lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
 
 &lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unterstütze uns</title>
+      <link>http://therefugees.ch/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/support/</guid>
+      <description>
+
+&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
+
+&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wir suchen Proberäume Umgebung Vaduz, Fürstentum Liechtenstein&lt;/li&gt;
+&lt;li&gt;Sind dankbar für Spenden aller Art (Kollekte für Flüchtlingshilfe)&lt;/li&gt;
+&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/p&gt;
+
+&lt;p&gt;Bitte benutzen Sie das &lt;a href=&#34;http://therefugees.ch/contact/&#34;&gt;Kontaktformular&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;wir-danken-für-die-unterstützung:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Wir danken für die Unterstützung:&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://therefugees.ch/RotesKreuz-Logo-Web.gif&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Sowie:&lt;/p&gt;
+
+&lt;p&gt;Pippilotti Rist, Gottfried Bechthold, &lt;a href=&#34;http://www.mumas.li/&#34;&gt;&amp;ldquo;MUmAs&amp;rdquo;&lt;/a&gt;, Roswitha Dörig, &amp;ldquo;Gymi for Change&amp;rdquo;, Barbara Ellenberger, &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/&#34;&gt;Surian Soosay&lt;/a&gt;, Dr.Hüseyin I. Cicek, &lt;a href=&#34;http://schoschanakobelt.ch/&#34;&gt;Schoschana Kobelt&lt;/a&gt; u.v.m.&lt;/p&gt;
 </description>
     </item>
     
@@ -196,38 +222,6 @@ Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins
 &lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
 &lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unterstütze uns</title>
-      <link>http://therefugees.ch/support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/support/</guid>
-      <description>
-
-&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
-
-&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wir suchen Proberäume Umgebung Vaduz, Fürstentum Liechtenstein&lt;/li&gt;
-&lt;li&gt;Sind dankbar für Spenden aller Art (Kollekte für Flüchtlingshilfe)&lt;/li&gt;
-&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/p&gt;
-
-&lt;p&gt;Bitte benutzen Sie das &lt;a href=&#34;http://therefugees.ch/contact/&#34;&gt;Kontaktformular&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;wir-danken-für-die-unterstützung:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Wir danken für die Unterstützung:&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://therefugees.ch/RotesKreuz-Logo-Web.gif&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;Sowie:&lt;/p&gt;
-
-&lt;p&gt;Pippilotti Rist, Gottfried Bechthold, &lt;a href=&#34;http://www.mumas.li/&#34;&gt;&amp;ldquo;MUmAs&amp;rdquo;&lt;/a&gt;, Roswitha Dörig, &amp;ldquo;Gymi for Change&amp;rdquo;, Barbara Ellenberger, &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/&#34;&gt;Surian Soosay&lt;/a&gt;, Dr.Hüseyin I. Cicek, &lt;a href=&#34;http://schoschanakobelt.ch/&#34;&gt;Schoschana Kobelt&lt;/a&gt; u.v.m.&lt;/p&gt;
 </description>
     </item>
     
