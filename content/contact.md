@@ -4,7 +4,6 @@ title = "Kontakt"
 weight = 1000
 name = "Kontakt"
 +++
-
 <h2>Schick uns eine Nachricht</h2>
 <form action="//formspree.io/projekt.refugees@gmail.com" method="POST">
 	<label for="name">Name:</label>
