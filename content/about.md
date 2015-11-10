@@ -32,6 +32,6 @@ Diplomierte Bewegungsschauspielerin aus St.Gallen mir Wurzeln im Liechtenstein, 
 Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei diesem Projekt als Eventmanagerin ihr Potential auszuleben. 
 
 ### Die Refugees
-Das sind Flüchtlinge verschienden Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
+Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
 
 Das Stück entsteht aus den Improvisationen der Refugees. 
