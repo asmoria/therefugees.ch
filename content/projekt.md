@@ -10,5 +10,8 @@ Refugees ist kein einmaliges Theaterstück, sondern ein vielseitiges Projekt, mi
 Es benötigt und fördert den direkten Austausch und fordert uns, über unsere Schatten zu springen. Dabei können Blockaden gelöst, Grenzen gesprengt werden und vielleicht auch etwas ganz Neues entstehen. Wir wissen es (noch) nicht. 
 Es ist ein Versuch, ein Pflänzchen das noch wachsen darf.
 
+Nicht das Theaterstück steht im Vordergrund, sondern die Idee Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv etwas für die Intergration zu unternehmen.
+Mit diesen Gedanken starteten wir im Herbst 2015 die Proben für Refugees im Fürstentum Liechtenstein.
+Wohin uns die Reise wohl als nächstes führt? Wir sind gespannt...  
 
 
