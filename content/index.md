@@ -9,7 +9,7 @@ type: "index"
 <br/>
 
 > ### News: Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noch mehr Vorfreude gibts einen schönen <a href="/vaterland.pdf"> Artikel im Liechtensteiner Vaterland vom 14.11.2015</a> <br/> <br/>
-> ## <span style="color:#F15303"> Refugees feiert Premiere am  MO 30.11.2015 19:00 Uhr </span style="color:#F15303">
+> ## <span style="color:#F15303"> Refugees feiert Premiere am  Mo 30.11.2015 19:00 Uhr </span style="color:#F15303">
 > #### <span style="color:#10420A">Aula Liechtensteinisches Gymnasium, Marianumstrasse.45, 9490 Vaduz </span style="color:#10420A">
 
 
