@@ -8,12 +8,12 @@ type: "index"
 ### Ein Theaterstück über Flucht, Traum und Realität.
 <br/>
 
-> ### News: Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und zum sich Vorfreuen ein schöner <a href="/vaterland.pdf"> Artikel im Liechtensteiner Vaterland vom 14.11.2015</a> <br/> <br/>
+> ### News: Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noch mehr Vorfreude gibts einen schönen <a href="/vaterland.pdf"> Artikel im Liechtensteiner Vaterland vom 14.11.2015</a> <br/> <br/>
 > ## <span style="color:#F15303"> Refugees feiert Premiere am  MO 30.11.2015 19:00 Uhr </span style="color:#F15303">
 > #### <span style="color:#10420A">Aula Liechtensteinisches Gymnasium, Marianumstrasse.45, 9490 Vaduz </span style="color:#10420A">
 
 
-> <b>Eintritt frei!</b> (freiwillige Kollekte für Flüchtlingshilfe des Roten Kreuzes)
+> <b>Eintritt frei!</b> (freiwillige Kollekte für die Flüchtlingshilfe des Roten Kreuzes)
 
 > Türöffnung 18:00 Uhr + Apero ("Gymi for Change")
 
