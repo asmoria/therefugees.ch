@@ -14,7 +14,7 @@ Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre
 > <span style="color:#10420A"><FONT SIZE="2">Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger <br/>
 Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
-Musik: Schoschana Kobelt & Viviane Hasler<br/>
+Musik: Schoschana Kobelt, Viviane Hasler und Aisa Ametianova<br/>
 Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)<br/>
 </FONT SIZE="2"></span style="color:#10420A">
 
