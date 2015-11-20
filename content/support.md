@@ -32,4 +32,4 @@ Verwendungszweck : REFUGEES AULA 11 / 15<br/>
 
 Wir danken ausserdem: 
 
-Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/), Dr.Hüseyin I. Cicek, [Schoschana Kobelt](http://schoschanakobelt.ch/) u.v.m.
+Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/), Dr.Hüseyin I. Cicek, [Schoschana Kobelt](http://schoschanakobelt.ch/), Verena Meier, u.v.m.
