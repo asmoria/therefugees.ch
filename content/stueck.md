@@ -15,6 +15,7 @@ Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre
 Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova<br/>
+Tanz: Monika Mayer-Pavlidis </br>
 Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)<br/>
 </FONT SIZE="2"></span style="color:#10420A">
 
