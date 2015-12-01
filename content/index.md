@@ -7,6 +7,9 @@ type: "index"
 > # Refugees
 ### Ein Theaterstück über Flucht, Traum und Realität.
 <br/>
+> ### <span style="color:#F15303">01.12.2015 News: </span><br/>Wir bedanken uns bei allen Beteiligten, bei den Darstellern, Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
+### Wir freuen uns auf weitere Projekte und eine farbenfrohe Weihnachtszeit! Passend dazu ein<a href="/Weihnachten-16.pdf"> Portrait von Zaid</a>. Danke  Liechtensteiner Volksblatt! 
+
 > ### <span style="color:#F15303">27.11.2015 News: </span><br/><a href="/RadioGrischna.MP3"> Noch ein Beitrag zum Reinhören. </a> Danke Radio Südostschweiz!
 > ### <span style="color:#F15303">20.11.2015 News: </span><br/><a href="/RadioLRefugees.MP3"> Beitrag vom Radio L </a>. Ein grosses DANKE an Victoria vom Radio L fürs Reinschauen bei unseren Proben! <br/>
 > ### <span style="color:#F15303">14.11.2015 News:</span><br/> Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noch mehr Vorfreude gibts einen schönen <a href="/vaterland.pdf"> Artikel im Liechtensteiner Vaterland</a> <br/> <br/>
