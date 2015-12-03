@@ -11,26 +11,18 @@ name = "Das Stück"
 Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.
 
 
-> <span style="color:#10420A"><FONT SIZE="2">Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger <br/>
+> <span style="color:#10420A"><FONT SIZE="3">Idee, Buch und Regie: Denis Nayi in Co-Regie mit Alice Schönenberger <br/>
 Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova<br/>
 Tanz: Monika Mayer-Pavlidis </br>
 Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)<br/>
-</FONT SIZE="2"></span style="color:#10420A">
+</FONT></span style="color:#10420A">
 
-## Warum?
+>## <span style="color:#F15303"> Refugees feierte Premiere am  Mo 30.11.2015 in Vaduz </span>
 
-Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung. 
-Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, dass die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
+<center>
+<img src="/flyer-medium.jpg" />
+</center>
 
-### Ziele: 
-
- - Flüchtlingen eine Plattform bieten, eine Stimme geben
- - Den interkulturellen Austausch und die Integration fördern
- - Eine Kollektiv-Arbeit starten
- - Andere Sichtweisen auf ein kontroverses Thema eröffnen
- - Die Schönheit der Kulturen teilen
- - Flüchtlingshilfe leisten
 
