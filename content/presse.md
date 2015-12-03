@@ -26,7 +26,7 @@ Verschiedene Pressebeiträge zu Refugees
 <br/>
 
 ## Hintergrund (frühere Projekte)
-In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis Nayi kontroverse Stücke inszeniert zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und das Erdbeben in Haiti (Bonjour Haiti)
+In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis Nayi kontroverse Stücke inszeniert im Fürstentum Liechtenstein zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und das Erdbeben in Haiti (Bonjour Haiti)
 
 Ein paar Infos zu den bisherigen Stücken: 
 
