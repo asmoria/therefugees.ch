@@ -9,32 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,20 +37,6 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;p&gt;Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. Sie kommen aus dem Kongo, der Mongolei, aus Eritrea, Tibet und Pakistan.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt; Hier ein Portrait von Zaid&lt;/a&gt; einem unserer Darsteller. Danke Liechtensteinisches Volksblatt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nachricht verschickt, danke!</title>
-      <link>http://therefugees.ch/message-sent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/message-sent/</guid>
-      <description>
-
-&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
-
-&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
 </description>
     </item>
     
@@ -122,8 +82,151 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.vaterland.li/liechtenstein/kultur/Benefiz-Theater-Bonjour-Haiti-im-TAK;art175,90414&#34;&gt;&amp;ldquo;Bonjour Haiti&amp;rdquo; Liechtensteiner Vaterland&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/fesselnderfreiheit.jpg&#34;/&gt;&lt;/center&gt;
-&lt;P ALIGN=&#34;RIGHT&#34;&gt;&lt;FONT SIZE=&#34;2&#34;&gt;&lt;i&gt;Bild aus &amp;ldquo;Fesseln der Freiheit&amp;rdquo; 2012&lt;/i&gt;&lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/P ALIGN=&#34;RIGHT&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/fesselnderfreiheit.jpg&#34;/&gt;&lt;br&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;&lt;i&gt;Bild aus &amp;ldquo;Fesseln der Freiheit&amp;rdquo; 2012&lt;/i&gt;&lt;/FONT&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://therefugees.ch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/index.html</guid>
+      <description>
+
+&lt;div id=&#34;news&#34;&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+
+&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;03.12.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt; 
+Eine &lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt; Kritik &lt;/a&gt; vom Liechtensteiner Vaterland zu unserer Vorstellung vom Montag. Herzlichen Dank! 
+&lt;br/&gt;
+
+&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;01.12.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
+Wir bedanken uns bei allen Beteiligten, bei den Darstellern, allen Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
+
+Wir freuen uns auf weitere Projekte und eine farbenfrohe Weihnachtszeit! Passend dazu ein&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt; Portrait von Zaid&lt;/a&gt;. Danke  Liechtensteiner Volksblatt! 
+
+&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;27.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
+&lt;a href=&#34;http://therefugees.ch/RadioGrischna.MP3&#34;&gt; Noch ein Beitrag zum Reinhören. &lt;/a&gt; Danke Radio Südostschweiz!
+
+&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;20.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
+&lt;a href=&#34;http://therefugees.ch/RadioLRefugees.MP3&#34;&gt; Beitrag vom Radio L &lt;/a&gt;. Ein grosses DANKE an Victoria vom Radio L fürs Reinschauen bei unseren Proben! &lt;br/&gt;
+
+&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;14.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
+Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noch mehr Vorfreude gibts einen schönen &lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt; Artikel im Liechtensteiner Vaterland&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;refugees:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Refugees&lt;/h1&gt;
+
+&lt;h3 id=&#34;ein-theaterstück-über-flucht-traum-und-realität:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Ein Theaterstück über Flucht, Traum und Realität.&lt;/h3&gt;
+
+&lt;p&gt;
+&lt;h2&gt;&lt;span style=&#34;color:#F15303&#34;&gt;Refugees feierte Premiere am  Mo 30.11.15 in Vaduz &lt;/span&gt;&lt;/h2&gt;
+  &lt;span style=&#34;color:#10420A&#34;&gt;Wir bedanken uns bei allen Beteiligten, den Darstellern, allen Helfern und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
+Wir sind auf der Suche nach weiteren Aufführungsmöglichkeiten für das kommende Jahr und wünschen frohe Festtage!&lt;/span&gt;
+&lt;/p&gt;
+&lt;FONT SIZE=&#34;5&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;Nicht vergessen:&lt;/span&gt;&lt;br/&gt;&lt;/FONT&gt;
+Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. &lt;br/&gt;
+
+&lt;blockquote&gt;
+LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz&lt;br/&gt;
+Postcheck
+Kto.-Nr. 90-10364-8&lt;br/&gt;
+IBAN    CH24 0900 0000 9001 0364 8 &lt;br/&gt;
+Verwendungszweck : REFUGEES AULA 11 / 15&lt;br/&gt;
+&lt;/blockquote&gt;
+
+Ihre Spende ist in der Steuererklärung abzugsberechtigt!
+
+&lt;img src=&#34;http://therefugees.ch/RotesKreuz-Logo-Web.gif&#34;/&gt;
+
+&lt;p&gt;
+Hier unser Flyer:
+  &lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;img src=&#34;http://therefugees.ch/flyer-back-medium.jpg&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://therefugees.ch/message-sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/message-sent/</guid>
+      <description>
+
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
+
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Projekt</title>
+      <link>http://therefugees.ch/projekt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/projekt/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
+
+&lt;p&gt;Refugees ist kein einmaliges Theaterstück, sondern ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur, lebt jedoch von den Improvisationen und Erzählungen der Darsteller.&lt;/p&gt;
+
+&lt;p&gt;Es benötigt und fördert den direkten Austausch und fordert uns, über unsere Schatten zu springen. Dabei können Blockaden gelöst, Grenzen gesprengt werden und vielleicht auch etwas ganz Neues entstehen. Wir wissen es (noch) nicht.
+Es ist ein Versuch, ein Pflänzchen das noch wachsen darf.&lt;/p&gt;
+
+&lt;p&gt;Nicht das Theaterstück steht im Vordergrund, sondern die Idee Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv etwas für die Intergration zu unternehmen.
+Mit diesen Gedanken starteten wir im Herbst 2015 die Proben für Refugees im Fürstentum Liechtenstein.
+Wohin uns die Reise wohl als nächstes führt? Wir sind gespannt&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
+
+&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung.
+Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
+Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, das die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
+
+&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
+&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
+&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
+&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
+&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
+&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -197,106 +300,6 @@ IBAN    CH24 0900 0000 9001 0364 8&lt;/p&gt;
 &lt;p&gt;Wir danken ausserdem:&lt;/p&gt;
 
 &lt;p&gt;Pippilotti Rist, Gottfried Bechthold, &lt;a href=&#34;http://www.mumas.li/&#34;&gt;&amp;ldquo;MUmAs&amp;rdquo;&lt;/a&gt;, Roswitha Dörig, &amp;ldquo;Gymi for Change&amp;rdquo;, Barbara Ellenberger, &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/&#34;&gt;Surian Soosay&lt;/a&gt;, Dr.Hüseyin I. Cicek, &lt;a href=&#34;http://schoschanakobelt.ch/&#34;&gt;Schoschana Kobelt&lt;/a&gt;, Monika Mayer-Pavlidis, Verena Meier, u.v.m.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://therefugees.ch/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/index.html</guid>
-      <description>
-
-&lt;div id=&#34;news&#34;&gt;
-&lt;h2&gt;News&lt;/h2&gt;
-
-&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;03.12.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt; 
-Eine &lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt; Kritik &lt;/a&gt; vom Liechtensteiner Vaterland zu unserer Vorstellung vom Montag. Herzlichen Dank! 
-&lt;br/&gt;
-
-&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;01.12.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
-Wir bedanken uns bei allen Beteiligten, bei den Darstellern, allen Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
-
-Wir freuen uns auf weitere Projekte und eine farbenfrohe Weihnachtszeit! Passend dazu ein&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt; Portrait von Zaid&lt;/a&gt;. Danke  Liechtensteiner Volksblatt! 
-
-&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;27.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
-&lt;a href=&#34;http://therefugees.ch/RadioGrischna.MP3&#34;&gt; Noch ein Beitrag zum Reinhören. &lt;/a&gt; Danke Radio Südostschweiz!
-
-&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;20.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
-&lt;a href=&#34;http://therefugees.ch/RadioLRefugees.MP3&#34;&gt; Beitrag vom Radio L &lt;/a&gt;. Ein grosses DANKE an Victoria vom Radio L fürs Reinschauen bei unseren Proben! &lt;br/&gt;
-
-&lt;Font size=&#34;4&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;14.11.2015&lt;/span&gt;&lt;/Font&gt;&lt;br/&gt;
-Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noch mehr Vorfreude gibts einen schönen &lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt; Artikel im Liechtensteiner Vaterland&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&#34;refugees:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Refugees&lt;/h1&gt;
-
-&lt;h3 id=&#34;ein-theaterstück-über-flucht-traum-und-realität:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Ein Theaterstück über Flucht, Traum und Realität.&lt;/h3&gt;
-
-&lt;p&gt;
-&lt;h2&gt;&lt;span style=&#34;color:#F15303&#34;&gt;Refugees feierte Premiere am  Mo 30.11.15 in Vaduz &lt;/span&gt;&lt;/h2&gt;
-  &lt;span style=&#34;color:#10420A&#34;&gt;Wir bedanken uns bei allen Beteiligten, den Darstellern, allen Helfern und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
-Wir sind auf der Suche nach weiteren Aufführungsmöglichkeiten für das kommende Jahr und wünschen frohe Festtage!&lt;/span&gt;
-&lt;/p&gt;
-&lt;FONT SIZE=&#34;5&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt;Nicht vergessen:&lt;/span&gt;&lt;br/&gt;&lt;/FONT&gt;
-Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. &lt;br/&gt;
-
-&lt;blockquote&gt;
-LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz&lt;br/&gt;
-Postcheck
-Kto.-Nr. 90-10364-8&lt;br/&gt;
-IBAN    CH24 0900 0000 9001 0364 8 &lt;br/&gt;
-Verwendungszweck : REFUGEES AULA 11 / 15&lt;br/&gt;
-&lt;/blockquote&gt;
-
-Ihre Spende ist in der Steuererklärung abzugsberechtigt!
-
-&lt;p&gt;
-  &lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;img src=&#34;http://therefugees.ch/flyer-back-medium.jpg&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Das Projekt</title>
-      <link>http://therefugees.ch/projekt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/projekt/</guid>
-      <description>
-
-&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
-
-&lt;p&gt;Refugees ist kein einmaliges Theaterstück, sondern ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur, lebt jedoch von den Improvisationen und Erzählungen der Darsteller.&lt;/p&gt;
-
-&lt;p&gt;Es benötigt und fördert den direkten Austausch und fordert uns, über unsere Schatten zu springen. Dabei können Blockaden gelöst, Grenzen gesprengt werden und vielleicht auch etwas ganz Neues entstehen. Wir wissen es (noch) nicht.
-Es ist ein Versuch, ein Pflänzchen das noch wachsen darf.&lt;/p&gt;
-
-&lt;p&gt;Nicht das Theaterstück steht im Vordergrund, sondern die Idee Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv etwas für die Intergration zu unternehmen.
-Mit diesen Gedanken starteten wir im Herbst 2015 die Proben für Refugees im Fürstentum Liechtenstein.
-Wohin uns die Reise wohl als nächstes führt? Wir sind gespannt&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
-
-&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. Kein anderes Thema ist so brandaktuell, dass die Medienwelt regelrecht geflutet wird mit neuen Berichten. Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung.
-Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, dass die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
-
-&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
-&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
-&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
-&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
-&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
-&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
