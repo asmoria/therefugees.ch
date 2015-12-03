@@ -5,15 +5,14 @@ type: "index"
 ---
 
 <div id="news">
-<h3>News</h3>
+<h2>News</h2>
 
 <span style="color:#F15303">03.12.2015</span><br/> 
-Eine <a href="/VaterlandKritik.pdf"> Kritik </a> vom Liechtensteiner Vaterland zu unserer Vorstellung vom Montag. 
-Nicht vergessen, es darf immernoch gespendet werden für die Flüchtlingshilfe vom Roten Kreuz. 
+Eine <a href="/VaterlandKritik.pdf"> Kritik </a> vom Liechtensteiner Vaterland zu unserer Vorstellung vom Montag. Herzlichen Dank! 
 <br/>
 
 <span style="color:#F15303">01.12.2015</span><br/>
-Wir bedanken uns bei allen Beteiligten, bei den Darstellern, Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
+Wir bedanken uns bei allen Beteiligten, bei den Darstellern, allen Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
 
 Wir freuen uns auf weitere Projekte und eine farbenfrohe Weihnachtszeit! Passend dazu ein<a href="/Weihnachten-16.pdf"> Portrait von Zaid</a>. Danke  Liechtensteiner Volksblatt! 
 

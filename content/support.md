@@ -12,6 +12,7 @@ Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:
  - Sind dankbar für Spenden aller Art (Kollekte für Flüchtlingshilfe)
  - Empfehlen Sie uns weiter
  - Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. 
+- Wir suchen Spielstätten für das kommende Jahr 
 
 
 Bitte benutzen Sie das [Kontaktformular](http://therefugees.ch/contact/).
