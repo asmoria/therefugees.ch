@@ -9,15 +9,7 @@ type: "index"
 
 <span style="color:#F15303">03.12.2015</span><br/> 
 Eine <a href="/VaterlandKritik.pdf"> Kritik </a> vom Liechtensteiner Vaterland zu unserer Vorstellung vom Montag. 
-Nicht vergessen, es darf immernoch gespendet werden für die Flüchtlingshilfe vom Roten Kreuz: 
-
-LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
-Postcheck
-Kto.-Nr. 90-10364-8<br/>
-IBAN    CH24 0900 0000 9001 0364 8
-
-Verwendungszweck : REFUGEES AULA 11 / 15<br/>
-<span style="color:#F15303">Ihre Spende ist in der Steuererklärung abzugsberechtigt!</span><br/>
+Nicht vergessen, es darf immernoch gespendet werden für die Flüchtlingshilfe vom Roten Kreuz. 
 <br/>
 
 <span style="color:#F15303">01.12.2015</span><br/>
@@ -40,17 +32,22 @@ Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noc
 ### Ein Theaterstück über Flucht, Traum und Realität.
 
 <p>
-  Nicht vergessen:<br/>
-  <span style="color:#F15303">Refugees feiert Premiere am  Mo 30.11.2015 19:00 Uhr </span><br/>
-  <span style="color:#10420A">Aula Liechtensteinisches Gymnasium, Marianumstrasse.45, 9490 Vaduz </span>
+<h2><span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz </span></h2>
+  <span style="color:#10420A">Wir bedanken uns bei allen Beteiligten, den Darstellern, allen Helfern und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
+Wir sind auf der Suche nach weiteren Aufführungsmöglichkeiten für das kommende Jahr und wünschen frohe Festtage!</span>
 </p>
+<FONT SIZE="5"><span style="color:#F15303">Nicht vergessen:</span><br/></FONT>
+Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
 
-<b>Eintritt frei!</b> (freiwillige Kollekte für Flüchtlingshilfe) 
-Türöffnung 18:00 Uhr + Apero (gesponsert von "Gymi for Change")
+<blockquote>
+LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
+Postcheck
+Kto.-Nr. 90-10364-8<br/>
+IBAN    CH24 0900 0000 9001 0364 8 <br/>
+Verwendungszweck : REFUGEES AULA 11 / 15<br/>
+</blockquote>
 
-<p style="text-align: center">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10852.595785274201!2d9.499502113417401!3d47.154937199801374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b310a507ca393%3A0x5bc1fa00e8012a4c!2sMarianumstrasse+45%2C+9490+Vaduz%2C+Liechtenstein!5e0!3m2!1sde!2sch!4v1446478589785" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
+Ihre Spende ist in der Steuererklärung abzugsberechtigt!
 
 <p>
   <img src="/flyer-medium.jpg" />

@@ -1,7 +1,7 @@
 +++
 title = "Presse"
 [menu.main]
-weight = -1
+weight = 800
 name = "Presse"
 +++
 ## Pressestimmen zu Refugees
