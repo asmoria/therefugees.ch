@@ -48,7 +48,10 @@ Verwendungszweck : REFUGEES AULA 11 / 15<br/>
 
 Ihre Spende ist in der Steuererklärung abzugsberechtigt!
 
+<img src="/RotesKreuz-Logo-Web.gif"/>
+
 <p>
+Hier unser Flyer:
   <img src="/flyer-medium.jpg" />
 </p>
 

@@ -36,8 +36,8 @@ Ein paar Infos zu den bisherigen Stücken:
 
 * ["Bonjour Haiti" Liechtensteiner Vaterland](http://www.vaterland.li/liechtenstein/kultur/Benefiz-Theater-Bonjour-Haiti-im-TAK;art175,90414)
 
-<center><img src="/fesselnderfreiheit.jpg"/></center>
-<P ALIGN="RIGHT"><FONT SIZE="2"><i>Bild aus "Fesseln der Freiheit" 2012</i></FONT SIZE="2"></P ALIGN="RIGHT">
+<center><img src="/fesselnderfreiheit.jpg"/><br>
+<FONT SIZE="2"><i>Bild aus "Fesseln der Freiheit" 2012</i></FONT></center>
 
 
 
