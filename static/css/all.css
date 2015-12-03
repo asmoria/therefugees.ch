@@ -31,12 +31,20 @@ a:hover {
 }
 
 div#content h1 {
+    font-size: 35pt;
+}
+
+div#content h2 {
     font-size: 20pt;
+}
+
+div#content h3 {
+    font-size: 15pt;
 }
 
 div#wrap {
     margin: auto;
-    max-width: 720px;
+    max-width: 960px;
     margin-top: 0;
     padding: 0;
     background-image: url('/content-bg.png');
@@ -57,7 +65,7 @@ div#head > h1{
 
 div#content {
     margin: 0px 10px 0px 10px;
-    padding: 25px 10px 10px 10px;
+    padding: 25px 20px 10px 20px;
     background-color: #FDEFC3;
 }
 
@@ -69,14 +77,12 @@ div#foot {
 }
 
 ul#mainmenu {
+    float: right;
     list-style-type: none;
-    margin: 120px 2px 10px auto;
-    padding: 0;
+    margin-top: 120px;
+    margin-right: 5px;
     text-align: center;
     font-family:"Montserrat";
-    max-width: 600px;
-    /*width: 100%;*/
-    /*position: absolute;*/
     display: block;
 }
 
@@ -105,4 +111,11 @@ label {
 
 label, textarea, input {
     display: block;
+}
+
+div#news {
+    display: block;
+    width: 240px;
+    float: right;
+    height: 100%;
 }
