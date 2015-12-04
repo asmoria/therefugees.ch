@@ -31,6 +31,6 @@ Verwendungszweck : REFUGEES AULA 11 / 15<br/>
 <span style="color:#F15303">Ihre Spende ist in der Steuererklärung abzugsberechtigt!</span style="color:#F15303"><br/>
 <br/>
 
-Wir danken ausserdem: 
+<u>Wir danken ausserdem:</u>
 
-Pippilotti Rist, Gottfried Bechthold, ["MUmAs"](http://www.mumas.li/), Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/), Dr.Hüseyin I. Cicek, [Schoschana Kobelt](http://schoschanakobelt.ch/), Monika Mayer-Pavlidis, Verena Meier, u.v.m.
+Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, "Gymi for Change", Barbara Ellenberger, [Surian Soosay](https://www.flickr.com/photos/ssoosay/), Dr.Hüseyin I. Cicek, [Schoschana Kobelt](http://schoschanakobelt.ch/), Viviane Hasler, Asia Ahmetjanova, Monika Mayer-Pavlidis, Verena Meier, u.v.m.

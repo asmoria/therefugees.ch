@@ -12,9 +12,7 @@ Eine <a href="/VaterlandKritik.pdf"> Kritik </a> vom Liechtensteiner Vaterland z
 <br/>
 
 <Font size="4"><span style="color:#F15303">01.12.2015</span></Font><br/>
-Wir bedanken uns bei allen Beteiligten, bei den Darstellern, allen Helfern und dem Publikum für einen gelungen Abend. Es war grandios!
-
-Wir freuen uns auf weitere Projekte und eine farbenfrohe Weihnachtszeit! Passend dazu ein<a href="/Weihnachten-16.pdf"> Portrait von Zaid</a>. Danke  Liechtensteiner Volksblatt! 
+Wir wünschen eine farbenfrohe Weihnachtszeit! Passend dazu ein<a href="/Weihnachten-16.pdf"> Portrait von Zaid</a>. Danke  Liechtensteiner Volksblatt! 
 
 <Font size="4"><span style="color:#F15303">27.11.2015</span></Font><br/>
 <a href="/RadioGrischna.MP3"> Noch ein Beitrag zum Reinhören. </a> Danke Radio Südostschweiz!
@@ -31,11 +29,11 @@ Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noc
 ### Ein Theaterstück über Flucht, Traum und Realität.
 
 <p>
-<h2><span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz </span></h2>
+<span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz. <br/> </span>
   <span style="color:#10420A">Wir bedanken uns bei allen Beteiligten, den Darstellern, allen Helfern und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
 Wir sind auf der Suche nach weiteren Aufführungsmöglichkeiten für das kommende Jahr und wünschen frohe Festtage!</span>
 </p>
-<FONT SIZE="5"><span style="color:#F15303">Nicht vergessen:</span><br/></FONT>
+<FONT SIZE="5"><span style="color:#F15303"><u>Nicht vergessen:</u></span><br/></FONT>
 Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
 
 <blockquote>
@@ -50,11 +48,3 @@ Ihre Spende ist in der Steuererklärung abzugsberechtigt!
 
 <img src="/RotesKreuz-Logo-Web.gif"/>
 
-<p>
-Hier unser Flyer:
-  <img src="/flyer-medium.jpg" />
-</p>
-
-<p>
-  <img src="/flyer-back-medium.jpg" />
-</p>
