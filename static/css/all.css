@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5 {
     font-family:"Raleway";
     font-weight:500;
     line-height:1;
-    margin-top:0;
+    margin-top: 0px;
     text-rendering:optimizeLegibility;
 }
 
@@ -118,4 +118,14 @@ div#news {
     width: 240px;
     float: right;
     margin-left: 15px;
+}
+
+.press {
+  display: block;
+  width: 250px;
+  float: left;
+  margin: 0px 25px 0px 25px;
+}
+.press > a > img {
+  display: block;
 }
