@@ -11,15 +11,11 @@
   </url>
   
   <url>
-    <loc>http://therefugees.ch/presse/</loc>
-  </url>
-  
-  <url>
     <loc>http://therefugees.ch/contact/</loc>
   </url>
   
   <url>
-    <loc>http://therefugees.ch/index.html</loc>
+    <loc>http://therefugees.ch/presse/</loc>
   </url>
   
   <url>
@@ -27,7 +23,11 @@
   </url>
   
   <url>
-    <loc>http://therefugees.ch/projekt/</loc>
+    <loc>http://therefugees.ch/index.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://therefugees.ch/support/</loc>
   </url>
   
   <url>
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://therefugees.ch/support/</loc>
+    <loc>http://therefugees.ch/projekt/</loc>
   </url>
   
 </urlset>
