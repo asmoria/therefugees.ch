@@ -9,32 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,6 +41,32 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nachricht verschickt, danke!</title>
       <link>http://therefugees.ch/message-sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,21 +92,35 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 
 &lt;p&gt;Verschiedene Pressebeiträge zu Refugees&lt;/p&gt;
 
-&lt;h3 id=&#34;kritiken:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Kritiken&lt;/h3&gt;
+&lt;h3 id=&#34;kritiken-artikel:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Kritiken &amp;amp; Artikel&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt; 02.12.15 Liechtensteiner Vaterland &lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;press&#34;&gt;
+  &lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt;
+    &lt;img src=&#39;http://therefugees.ch/VaterlandKritik.png&#39;/&gt;
+    02.12.15 Liechtensteiner Vaterland
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;press&#34;&gt;
+  &lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt;
+    &lt;img src=&#34;http://therefugees.ch/vaterland.png&#34;/&gt;
+    14.11.15 Liechtensteiner Vaterland
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;press&#34;&gt;
+  &lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt;
+    &lt;img src=&#34;http://therefugees.ch/Weihnachten-16.png&#34;/&gt;
+    26.11.15 Weihnachtsbeilage Liechtensteiner Volksblatt
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br style=&#34;clear: both;&#34;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;radio:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Radio&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://therefugees.ch/RadioGrischna.MP3&#34;&gt; Radio Südostschweiz &lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;http://therefugees.ch/RadioLRefugees.MP3&#34;&gt; Beitrag vom Radio L &lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;weitere-artikel:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Weitere Artikel&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt; 14.11.15 Liechtensteiner Vaterland&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt; 26.11.15 Weihnachtsbeilage Liechtensteiner Volksblatt&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;hintergrund-frühere-projekte:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Hintergrund (frühere Projekte)&lt;/h2&gt;
 
