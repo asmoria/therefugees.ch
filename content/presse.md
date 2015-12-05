@@ -26,7 +26,7 @@ Verschiedene Pressebeiträge zu Refugees
 
 <div class="press">
   <a href="/Weihnachten-16.pdf">
-    <img src="/Weihnachten-16.png"/>
+    <img src="/Weihnachten-16.png"/><br/>
     26.11.15 Weihnachtsbeilage Liechtensteiner Volksblatt
   </a>
 </div>
