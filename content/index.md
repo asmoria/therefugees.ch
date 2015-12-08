@@ -30,9 +30,12 @@ Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noc
 
 <p>
 <span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz. <br/> </span>
-  <span style="color:#10420A">Wir bedanken uns bei allen Beteiligten, den Darstellern, allen Helfern und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
-Wir sind auf der Suche nach weiteren Aufführungsmöglichkeiten für das kommende Jahr und wünschen frohe Festtage!</span>
 </p>
+<p>
+<img src="/premiere1115.jpg"/></p>
+  <span style="color:#10420A">
+Wir bedanken uns bei allen Beteiligten und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
+Wir planen weitere Auftritte für das kommende Jahr und wünschen frohe Festtage!</br></span>
 <FONT SIZE="5"><span style="color:#F15303"><u>Nicht vergessen:</u></span><br/></FONT>
 Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
 
