@@ -37,7 +37,7 @@ Wir sind fleissig am Proben, nur noch zwei Wochen bis zur Premiere! Und für noc
 Wir bedanken uns bei allen Beteiligten und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
 Wir planen weitere Auftritte für das kommende Jahr und wünschen frohe Festtage!</br></span>
 <FONT SIZE="5"><span style="color:#F15303"><u>Nicht vergessen:</u></span><br/></FONT>
-Es darf immer noch gespendet werden! Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
+Es darf immer noch gespendet werden!<br/>Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
 
 <blockquote>
 LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
