@@ -6,9 +6,10 @@ weight = 750
 +++
 ## Wer wir sind: 
 
-Refugees ist eine Idee von Denis Nayi und Alice Schönenberger. Doch dahinter steht ein Team aus Menschen, die uns in unserer Sache unterstützen. Sei es künstlerisch, organsisatorisch, technisch - ohne Hilfe wäre dieses Stück nicht möglich. Alle arbeiten sie ehrenamtlich und mit vollem Einsatz damit Refugees bewegt! 
+Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten. 
+
 ### Denis Nayi
-Choreograph und Tänzer. Seit vielen Jahren engagiert er sich für Flüchtlinge, unterrichtet Tanz und Musik, und inszenierte bereits mehrere Stücke für humanitäre Zwecke. Zu seinen treuen Unterstützern gehören unter anderem die Fürstin von Liechtenstein.
+Künstler, Choreograph ist der kreative Kopf von "Mama Afrika", bereits seit mehreren Jahren, nicht nur im Fürstentum Liechtenstein, auch in Amerika. 
 
 ### Alice Schönenberger
 Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit
@@ -17,6 +18,5 @@ Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, 
 Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. 
 
 ### Die Refugees
-Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. Sie kommen aus dem Kongo, der Mongolei, aus Eritrea, Tibet und Pakistan. 
+Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
 
-<a href="/Weihnachten-16.pdf"> Hier ein Portrait von Zaid</a> einem unserer Darsteller. Danke Liechtensteinisches Volksblatt! 
