@@ -9,10 +9,10 @@ weight = 750
 Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten. 
 
 ### Denis Nayi
-Künstler, Choreograph ist der kreative Kopf von "Mama Afrika", bereits seit mehreren Jahren, nicht nur im Fürstentum Liechtenstein, auch in Amerika. 
+Künstler und Choreograph, ist der kreative Kopf von "Mama Afrika", bereits seit mehreren Jahren, nicht nur im Fürstentum Liechtenstein, sondern auch in Amerika. 
 
 ### Alice Schönenberger
-Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit
+Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit.
 
 ### Petra Angelika Bublitz
 Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. 
