@@ -8,15 +8,16 @@ type: "index"
 ### Ein Theaterstück über Flucht, Traum und Realität.
 
 <p>
-<span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz. <br/> </span>
-</p>
-<p>
 <center><img src="/premieregross.jpg"/></p></center>
   <span style="color:#10420A">
-Wir bedanken uns bei allen Beteiligten und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
-Wir planen weitere Auftritte für das kommende Jahr und wünschen frohe Festtage!</br></span>
-<FONT SIZE="5"><span style="color:#F15303"><u>Nicht vergessen:</u></span><br/></FONT>
-Es darf immer noch gespendet werden!<br/>Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
+Wir hatten eine wunderschöne Aufführung in einer vollen Aula mit begeisterten Gästen.
+
+Am Mittwoch den 9.12.2015  durften wir aus der Kollekte und dem Apero von der Premiere "Refugees",an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben.
+ " Refugees" geht im nächsten Jahr weiter,mit neuen Spielstätten, vielleicht in Zürch, Basel, Winterthur oder......</br>
+
+Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
+
+Für alle, die nicht dabei sein konnten und das Projekt " Refugees" unterstützen möchten,  der Hinweis zum Spenden:
 
 <blockquote>
 LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
@@ -28,5 +29,4 @@ Verwendungszweck : REFUGEES AULA 11 / 15<br/>
 
 Ihre Spende ist in der Steuererklärung abzugsberechtigt!
 
-<img src="/RotesKreuz-Logo-Web.gif"/>
 
