@@ -18,7 +18,7 @@ type: "index"
 
 >Für alle, die nicht dabei sein konnten und das Projekt " Refugees" unterstützen möchten,  der Hinweis zum Spenden:
 
-><blockquote>
+<center><blockquote>
 LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
 Postcheck
 Kto.-Nr. 90-10364-8<br/>
@@ -27,5 +27,5 @@ IBAN    CH24 0900 0000 9001 0364 8 <br/>
 </blockquote>
 
 >Ihre Spende ist in der Steuererklärung abzugsberechtigt!
-</span>
+</span></center>
 
