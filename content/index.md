@@ -4,18 +4,16 @@ url: "index.html"
 type: "index"
 ---
 
-# Refugees
-### Ein Theaterstück über Flucht, Traum und Realität.
+# <center> Refugees</center>
+### <center> Ein Theaterstück über Flucht, Traum und Realität.</center>
 
 <p>
 <center><img src="/premieregross.jpg"/></p></center>
   <span style="color:#10420A">
-Wir hatten eine wunderschöne Aufführung 30. November 2015 in einer vollen Aula mit begeisterten Gästen.
+Wir hatten eine wunderschöne Aufführung am 30. November 2015 in einer vollen Aula mit begeisterten Gästen.
 
-Am Mittwoch den 9.12.2015 durften wir aus der Kollekte und dem Apero von der Premiere "Refugees", an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. <br/>
-"Refugees" geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, Winterthur oder......</br>
-
-Der Erlös kommt der Flüchtlingshilfe des Liechtensteinischen Roten Kreuzes zugute. <br/>
+Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero von der Premiere "Refugees", an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. <br/>
+"Refugees" geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, Winterthur oder...</br>
 
 Für alle, die nicht dabei sein konnten und das Projekt " Refugees" unterstützen möchten,  der Hinweis zum Spenden:
 
