@@ -23,7 +23,7 @@ LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
 Postcheck
 Kto.-Nr. 90-10364-8<br/>
 IBAN    CH24 0900 0000 9001 0364 8 <br/>
-Verwendungszweck : REFUGEES AULA 11 / 15<br/>
+<b>Verwendungszweck : REFUGEES AULA 11 / 15</b><br/>
 </blockquote>
 
 >Ihre Spende ist in der Steuererklärung abzugsberechtigt!
