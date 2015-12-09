@@ -9,20 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Nachricht verschickt, danke!</title>
-      <link>http://therefugees.ch/message-sent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/message-sent/</guid>
-      <description>
-
-&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
-
-&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +37,32 @@
 &lt;p&gt;Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. Sie kommen aus dem Kongo, der Mongolei, aus Eritrea, Tibet und Pakistan.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt; Hier ein Portrait von Zaid&lt;/a&gt; einem unserer Darsteller. Danke Liechtensteinisches Volksblatt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -116,32 +128,6 @@
     </item>
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://therefugees.ch/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -155,8 +141,10 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 
 &lt;p&gt;&lt;p&gt;
 &lt;center&gt;&lt;img src=&#34;http://therefugees.ch/premieregross.jpg&#34;/&gt;&lt;/p&gt;&lt;/center&gt;
-  &lt;span style=&#34;color:#2B1804&#34;&gt;
-Wir hatten eine wunderschöne Aufführung am 30. November 2015 in einer vollen Aula mit begeisterten Gästen.&lt;/p&gt;
+  &lt;span style=&#34;color:#2B1804&#34;&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Wir hatten eine wunderschöne Aufführung am 30. November 2015 in einer vollen Aula mit begeisterten Gästen.&lt;/p&gt;
 
 &lt;p&gt;Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero von der Premiere &amp;ldquo;Refugees&amp;rdquo;, an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. &lt;br/&gt;
 &amp;ldquo;Refugees&amp;rdquo; geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, Winterthur oder&amp;hellip;&lt;/br&gt;&lt;/p&gt;
@@ -173,6 +161,21 @@ Verwendungszweck : REFUGEES AULA 11 / 15&lt;br/&gt;
 
 &lt;p&gt;Ihre Spende ist in der Steuererklärung abzugsberechtigt!
 &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://therefugees.ch/message-sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/message-sent/</guid>
+      <description>
+
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
+
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
 </description>
     </item>
     
@@ -215,6 +218,39 @@ Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins
     </item>
     
     <item>
+      <title>Das Stück</title>
+      <link>http://therefugees.ch/stueck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/stueck/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;FONT SIZE=&#34;4&#34;&gt;&lt;span style=&#34;color:#10420A&#34;&gt;Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen.&lt;/span&gt;&lt;/Font&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color:#10420A&#34;&gt;&lt;FONT SIZE=&#34;3&#34;&gt;Idee, Buch und Regie: Denis Nayi &amp;amp; Alice Schönenberger &lt;br/&gt;
+Produktionsleitung: Petra Angelika Bublitz&lt;br/&gt;
+Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein&lt;br/&gt;
+Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova&lt;br/&gt;
+Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
+Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)&lt;br/&gt;
+&lt;/FONT&gt;&lt;/span style=&#34;color:#10420A&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;span-style-color-f15303-refugees-feierte-premiere-am-mo-30-11-2015-in-vaduz-span:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt; Refugees feierte Premiere am  Mo 30.11.2015 in Vaduz &lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;
+&lt;p&gt;
+  &lt;img src=&#34;http://therefugees.ch/flyer-back-medium.jpg&#34; /&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unterstütze uns</title>
       <link>http://therefugees.ch/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -251,39 +287,6 @@ IBAN    CH24 0900 0000 9001 0364 8&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;Wir danken ausserdem:&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, &amp;ldquo;Gymi for Change&amp;rdquo;, Barbara Ellenberger, &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/&#34;&gt;Surian Soosay&lt;/a&gt;, Dr.Hüseyin I. Cicek, &lt;a href=&#34;http://schoschanakobelt.ch/&#34;&gt;Schoschana Kobelt&lt;/a&gt;, Viviane Hasler, Asia Ahmetjanova, Monika Mayer-Pavlidis, Verena Meier, u.v.m.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Das Stück</title>
-      <link>http://therefugees.ch/stueck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/stueck/</guid>
-      <description>
-
-&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
-
-&lt;p&gt;&lt;i&gt;&lt;FONT SIZE=&#34;4&#34;&gt;&lt;span style=&#34;color:#10420A&#34;&gt;Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünschen und Träumen.&lt;/span&gt;&lt;/Font&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span style=&#34;color:#10420A&#34;&gt;&lt;FONT SIZE=&#34;3&#34;&gt;Idee, Buch und Regie: Denis Nayi &amp;amp; Alice Schönenberger &lt;br/&gt;
-Produktionsleitung: Petra Angelika Bublitz&lt;br/&gt;
-Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein&lt;br/&gt;
-Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova&lt;br/&gt;
-Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
-Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)&lt;br/&gt;
-&lt;/FONT&gt;&lt;/span style=&#34;color:#10420A&#34;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;span-style-color-f15303-refugees-feierte-premiere-am-mo-30-11-2015-in-vaduz-span:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;&lt;span style=&#34;color:#F15303&#34;&gt; Refugees feierte Premiere am  Mo 30.11.2015 in Vaduz &lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;
-&lt;p&gt;
-  &lt;img src=&#34;http://therefugees.ch/flyer-back-medium.jpg&#34; /&gt;
-&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
