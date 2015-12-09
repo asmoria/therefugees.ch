@@ -14,8 +14,7 @@ Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu
 ## Warum?
 
 Flüchtlinge. Krise. Der Traum von Europa. 
-Viel Stoff für kontroverse Diskussionen, die Medienwelt wird regelrecht geflutet mit neuen Berichten. 
-Von allen Seiten hagelt es Kritik und zuletzt spüren alle nur eins: Überforderung. 
+...Viel Stoff für kontroverse Diskussionen und die Medien warnen vor der Überforderung Europas...
 Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
 Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, das die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
 
@@ -28,7 +27,16 @@ Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins
  - Die Schönheit der Kulturen teilen
  - Flüchtlingshilfe leisten
 
+projekt
+ 
 
+Warum?
+
+Flüchtlinge. Krise, der Traum von Europa......
+
+...viel Stoff für kontroverse Diskussionen und die Medien warnen vor der Überforderung 
+
+Das Menschliche im Wirbel von Politik, Schleppern, Grenzübergängen und Medienberichten darf nicht verloren gehen. Gerade deshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, das die Menschen selber zu Wort kommen lässt. Keine “Fugitives” sondern “Refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
 
 
 
