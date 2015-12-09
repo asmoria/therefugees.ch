@@ -11,7 +11,7 @@ type: "index"
 <span style="color:#F15303">Refugees feierte Premiere am  Mo 30.11.15 in Vaduz. <br/> </span>
 </p>
 <p>
-<img src="/premiere1115.jpg"/></p>
+<img src="/premieregross.jpg"/></p>
   <span style="color:#10420A">
 Wir bedanken uns bei allen Beteiligten und dem Publikum. Dank euch war Refugees ein voller Erfolg. 
 Wir planen weitere Auftritte für das kommende Jahr und wünschen frohe Festtage!</br></span>
