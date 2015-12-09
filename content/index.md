@@ -9,7 +9,7 @@ type: "index"
 
 <p>
 <center><img src="/premieregross.jpg"/></p></center>
-  <span style="color:#10420A">
+  <span style="color:#2B1804">
 Wir hatten eine wunderschöne Aufführung am 30. November 2015 in einer vollen Aula mit begeisterten Gästen.
 
 Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero von der Premiere "Refugees", an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. <br/>
@@ -26,5 +26,5 @@ Verwendungszweck : REFUGEES AULA 11 / 15<br/>
 </blockquote>
 
 Ihre Spende ist in der Steuererklärung abzugsberechtigt!
-
+</span>
 
