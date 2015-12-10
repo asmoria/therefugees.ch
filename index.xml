@@ -9,32 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über Uns</title>
       <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,6 +39,32 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Presse</title>
       <link>http://therefugees.ch/presse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,34 +76,26 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 
 &lt;h3 id=&#34;pressebeiträge-zu-refugees:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Pressebeiträge zu Refugees&lt;/h3&gt;
 
-&lt;div class=&#34;press&#34;&gt;
-  &lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt;
-    &lt;img src=&#39;http://therefugees.ch/VaterlandKritik.png&#39;/&gt;
-    02.12.15 Alleine unter so vielen Menschen
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/VaterlandKritik.pdf&#34;&gt;
+02.12.15 Alleine unter so vielen Menschen
+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;div class=&#34;press&#34;&gt;
-  &lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt;
-    &lt;img src=&#34;http://therefugees.ch/vaterland.png&#34;/&gt;
-    14.11.15 Flüchtlinge eine Stimme geben
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/vaterland.pdf&#34;&gt;
+14.11.15 Flüchtlinge eine Stimme geben
+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;div class=&#34;press&#34;&gt;
-  &lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt;
-    &lt;img src=&#34;http://therefugees.ch/Weihnachten-16.png&#34;/&gt;
-    26.11.15 &#34;Auf Weihnachten in Liechtenstein freue ich mich&#34;
-  &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br style=&#34;clear: both;&#34;/&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/Weihnachten-16.pdf&#34;&gt;
+26.11.15 &amp;ldquo;Auf Weihnachten in Liechtenstein freue ich mich&amp;rdquo;
+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;radio:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Radio&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://therefugees.ch/RadioGrischna.MP3&#34;&gt; Radio Südostschweiz &lt;/a&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://therefugees.ch/RadioLRefugees.MP3&#34;&gt; Beitrag vom Radio L &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/RadioGrischna.MP3&#34;&gt; Radio Südostschweiz &lt;/a&gt;&lt;br/&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://therefugees.ch/RadioLRefugees.MP3&#34;&gt;Radio L &lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;rückblick:3a13311d9e9a11b4d66d867b5426650e&#34;&gt;Rückblick&lt;/h3&gt;
@@ -126,20 +118,6 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
-      <title>Nachricht verschickt, danke!</title>
-      <link>http://therefugees.ch/message-sent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/message-sent/</guid>
-      <description>
-
-&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
-
-&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://therefugees.ch/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -156,7 +134,7 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
   &lt;span style=&#34;color:#2B1804&#34;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Wir hatten eine wunderschöne Aufführung am 30. November 2015 in einer vollen Aula mit begeisterten Gästen.&lt;/p&gt;
+&lt;p&gt;Wir hatten eine wunderschöne Premiere am 30. November 2015  in Vaduz, in einer vollen Aula mit begeisterten Gästen.&lt;/p&gt;
 
 &lt;p&gt;Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero von der Premiere &amp;ldquo;Refugees&amp;rdquo;, an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. &lt;br/&gt;
 &amp;ldquo;Refugees&amp;rdquo; geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, Winterthur oder&amp;hellip;&lt;/br&gt;&lt;/p&gt;
@@ -180,38 +158,16 @@ IBAN    CH24 0900 0000 9001 0364 8 &lt;br/&gt;
     </item>
     
     <item>
-      <title>Das Projekt</title>
-      <link>http://therefugees.ch/projekt/</link>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://therefugees.ch/message-sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://therefugees.ch/projekt/</guid>
+      <guid>http://therefugees.ch/message-sent/</guid>
       <description>
 
-&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
 
-&lt;p&gt;Refugees ist ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur und lebt von den Improvisationen und Erzählungen der Darsteller.&lt;/p&gt;
-
-&lt;p&gt;Es fordert und fördert den direkten Austausch.&lt;/p&gt;
-
-&lt;p&gt;Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv die Integration zu fördern.&lt;/p&gt;
-
-&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
-
-&lt;p&gt;Flüchtlinge, Krise, der Traum von Europa. &lt;/br&gt;
-&amp;hellip;Viel Stoff für kontroverse Diskussionen und die Medien warnen vor der Überforderung Europas&amp;hellip;&lt;/br&gt;
-Das Menschliche im Wirbel von Politik, Schleppern, Grenzübergängen und Medienberichten darf nicht verloren gehen.
-Gerade desshalb haben Denis Nayi in Zusammenarbeit mit Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
-
-&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
-&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
-&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
-&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
-&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
-&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
 </description>
     </item>
     
@@ -227,21 +183,22 @@ Gerade desshalb haben Denis Nayi in Zusammenarbeit mit Alice Schönenbeger ein T
 
 &lt;p&gt;&lt;span style=&#34;color:#2B1804&#34;&gt;
 Weltweit befinden sich derzeit mehr als 45 Millionen Menschen auf der Flucht oder leben in flüchtlingsähnlichen Situationen. Für sie gibt es nur diesen letzten Ausweg.
-Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne voller Hoffnungen, Wünsche und Träume.&lt;br/&gt;&lt;br/&gt;
+Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne&amp;hellip;&lt;br/&gt;&lt;br/&gt;
 Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit zwischen Stacheldraht und Asylheim.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;&lt;FONT SIZE=&#34;3&#34;&gt;Idee, Buch und Regie: Denis Nayi &amp;amp; Alice Schönenberger &lt;br/&gt;
+&lt;p&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p style=&#34;display: block; width: 640px; margin: 0px auto 0px auto;&#34;&gt;
+&lt;FONT SIZE=&#34;3&#34;&gt;Idee, Buch und Regie: Denis Nayi &amp; Alice Schönenberger &lt;br/&gt;
 Produktionsleitung: Petra Angelika Bublitz&lt;br/&gt;
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein&lt;br/&gt;
 Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova&lt;br/&gt;
 Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
 Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)&lt;br/&gt;
-&lt;/FONT&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyer-medium.jpg&#34; /&gt;&lt;/center&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;/FONT&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -266,9 +223,45 @@ Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)&lt;br/&gt;
 
 &lt;p&gt;&lt;br/&gt;
 &lt;p&gt;
-Denis Nayi wird unterstützt von:
+Denis Nayi wird unterstützt von: &lt;br/&gt;
 Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, Barbara Ellenberger
 &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Projekt</title>
+      <link>http://therefugees.ch/projekt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/projekt/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
+
+&lt;p&gt;Refugees ist ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur und lebt von den Improvisationen und Erzählungen der Darsteller.&lt;/p&gt;
+
+&lt;p&gt;Es fordert und fördert den direkten Austausch.&lt;/p&gt;
+
+&lt;p&gt;Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv die Integration zu fördern.&lt;/p&gt;
+
+&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
+
+&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. &lt;/br&gt;
+Kein anderes Thema ist so brandaktuell, dass die Medienwelt uns regelrecht flutet mit neuen Berichten. Von allen Seiten hagelt es Kritik, und zuletzt spüren alle nur eins: Überforderung. &lt;/br&gt;
+Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
+Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
+
+&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
+&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
+&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
+&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
+&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
+&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
