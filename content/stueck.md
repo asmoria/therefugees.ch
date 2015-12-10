@@ -20,7 +20,6 @@ Produktionsleitung: Petra Angelika Bublitz<br/>
 Darsteller: Flüchtlinge aus dem Fürstentum Liechtenstein<br/>
 Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova<br/>
 Tanz: Monika Mayer-Pavlidis </br>
-Ansprache: Dr. Hüseyin I. Cicek (Religionswissenschaftler)<br/>
 </FONT>
 </p>
 
