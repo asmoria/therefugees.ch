@@ -8,33 +8,26 @@ name = "Presse"
 
 ### Pressebeiträge zu Refugees
 
-<div class="press">
-  <a href="/VaterlandKritik.pdf">
-    <img src='/VaterlandKritik.png'/>
+*  <a href="/VaterlandKritik.pdf">
     02.12.15 Alleine unter so vielen Menschen
   </a>
-</div>
 
-<div class="press">
-  <a href="/vaterland.pdf">
-    <img src="/vaterland.png"/>
+
+
+*  <a href="/vaterland.pdf">
     14.11.15 Flüchtlinge eine Stimme geben
   </a>
-</div>
 
-<div class="press">
-  <a href="/Weihnachten-16.pdf">
-    <img src="/Weihnachten-16.png"/>
+
+* <a href="/Weihnachten-16.pdf">
     26.11.15 "Auf Weihnachten in Liechtenstein freue ich mich"
   </a>
-</div>
-
-<br style="clear: both;"/>
 
 ### Radio
 
 * <a href="/RadioGrischna.MP3"> Radio Südostschweiz </a><br/>
-* <a href="/RadioLRefugees.MP3"> Beitrag vom Radio L </a>
+
+* <a href="/RadioLRefugees.MP3">Radio L </a>
 
 ### Rückblick
 In den letzten Jahren, jeweils zur Vorweihnachtszeit, hat Denis Nayi kontroverse Stücke inszeniert im Fürstentum Liechtenstein zum Thema Gewalt gegen Frauen im Kongo (Mama Afrika), Flüchtlinge aus Somalia (Fesseln der Freiheit) und das Erdbeben in Haiti (Bonjour Haiti)
