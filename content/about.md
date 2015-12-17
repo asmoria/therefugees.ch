@@ -18,5 +18,5 @@ Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, 
 Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. Sie ist Inititorin von [pro-culture-in.ch](http://pro-culture-in.ch/).
 
 ### Die Refugees
-Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft, deren Weg sie ins Fürstentum Liechtenstein führte. 
+Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft
 
