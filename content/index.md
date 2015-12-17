@@ -11,10 +11,10 @@ type: "index"
 <center><img src="/premieregross.jpg"/></p></center>
   <span style="color:#2B1804">
 
->Wir feierten eine wunderschöne Premiere am 30. November 2015 in Vaduz mit einer vollen Aula und begeisterten Gästen.
+><center><FONT SIZE="4">Wir feierten Premiere am 30. November 2015 in Vaduz mit einer vollen Aula und begeisterten Gästen.</Font>
 
->Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero von der Premiere "Refugees", an das Liechtenstenische Rote Kreuz 2050 CHF zu Gunsten der syrischen Flüchtlinge in Jordanien übergeben. <br/>
-"Refugees" geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, Winterthur oder...</br>
+>Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero der Premiere  2050 CHF dem Liechtensteinischen Roten Kreuz übergeben zu Gunsten der syrischen Flüchtlinge in Jordanien. <br/>
+"Refugees" geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, St.Gallen oder...</br>
 
 >Für alle, die nicht dabei sein konnten und das Projekt " Refugees" unterstützen möchten,  der Hinweis zum Spenden:
 
