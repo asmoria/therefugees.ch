@@ -3,6 +3,8 @@ title: Das Projekt
 menu: main
 ---
 
+Refugeees ist ein Projekt unter der Leitung von [Pro-Culture-In](http://pro-culture-in.ch/)
+
 ## Das Projekt Refugees
 
 Refugees ist ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur und lebt von den Improvisationen und Erzählungen der Darsteller.
