@@ -27,15 +27,15 @@
   </url>
   
   <url>
-    <loc>http://therefugees.ch/stueck/</loc>
-  </url>
-  
-  <url>
     <loc>http://therefugees.ch/projekt/</loc>
   </url>
   
   <url>
     <loc>http://therefugees.ch/support/</loc>
+  </url>
+  
+  <url>
+    <loc>http://therefugees.ch/stueck/</loc>
   </url>
   
 </urlset>
