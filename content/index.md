@@ -10,7 +10,6 @@ type: "index"
 <p>
 <center><img src="/premieregross.jpg"/></p></center>
   <span style="color:#2B1804">
-
 ## <center><span style="color:#FF8810">News: Neue Vorstellung in Zürich am 24.02.16 ! </span>
 
 ### <center> Wo: [Kulturhaus Helferei Zürich](http://www.kulturhaus-helferei.ch/)
