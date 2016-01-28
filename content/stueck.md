@@ -19,6 +19,6 @@ Tanz: Monika Mayer-Pavlidis </br>
 </FONT></Span>
 </p>
 
-<center><img src="/flyer-medium.jpg" /></center>
+<center><img src="/flyerzurich.jpg" /></center>
 
 

@@ -11,21 +11,13 @@ type: "index"
 <center><img src="/premieregross.jpg"/></p></center>
   <span style="color:#2B1804">
 
-><center><FONT SIZE="4">Wir feierten Premiere am 30. November 2015 in Vaduz mit einer vollen Aula und begeisterten Gästen.</Font>
+## <center><span style="color:#FF8810">News: Neue Vorstellung in Zürich am 24.02.16 ! </span>
 
->Am Mittwoch, den 9.12.2015, durften wir aus der Kollekte und dem Apero der Premiere  2050 CHF dem Liechtensteinischen Roten Kreuz übergeben zu Gunsten der syrischen Flüchtlinge in Jordanien. <br/>
-"Refugees" geht im nächsten Jahr weiter, mit neuen Spielstätten, vielleicht in Zürich, Basel, St.Gallen oder...</br>
+### <center> Wo: [Kulturhaus Helferei Zürich](http://www.kulturhaus-helferei.ch/)
 
->Für alle, die nicht dabei sein konnten und das Projekt " Refugees" unterstützen möchten,  der Hinweis zum Spenden:
+### <center> Wann: 19 Uhr (Türoffnung & Apero ab 17 Uhr) 
 
-<center><blockquote>
-LIECHTENSTEINISCHES ROTES KREUZ, 9490 Vaduz<br/>
-Postcheck
-Kto.-Nr. 90-10364-8<br/>
-IBAN    CH24 0900 0000 9001 0364 8 <br/>
-<b>Verwendungszweck : REFUGEES AULA 11 / 15</b><br/>
-</blockquote>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.6932270423254!2d8.542895752630715!3d47.37041482014723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa0abc92eeeff%3A0x3aa86abfaee0c41f!2sKulturhaus+Helferei!5e0!3m2!1sde!2sch!4v1454019240354" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
->Ihre Spende ist in der Steuererklärung abzugsberechtigt!
-</span></center>
+### <span style="color:#FF8810">Unser neuer [Flyer](http://www.therefugees.ch/flyerzurich.jpg) für mehr Infos. [Rückseite](http://www.therefugees.ch/flyerzurich-b.jpg)</span>
 
