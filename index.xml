@@ -9,36 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Über Uns</title>
-      <link>http://therefugees.ch/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;wer-wir-sind:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Wer wir sind:&lt;/h2&gt;
-
-&lt;p&gt;Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten.&lt;/p&gt;
-
-&lt;h3 id=&#34;denis-nayi:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Denis Nayi&lt;/h3&gt;
-
-&lt;p&gt;Künstler und Choreograph, ist der kreative Kopf von &amp;ldquo;Mama Afrika&amp;rdquo;, bereits seit mehreren Jahren, nicht nur im Fürstentum Liechtenstein, sondern auch in Amerika.&lt;/p&gt;
-
-&lt;h3 id=&#34;alice-schönenberger:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Alice Schönenberger&lt;/h3&gt;
-
-&lt;p&gt;Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit.&lt;/p&gt;
-
-&lt;h3 id=&#34;petra-angelika-bublitz:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Petra Angelika Bublitz&lt;/h3&gt;
-
-&lt;p&gt;Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. Sie ist Initiatorin von &lt;a href=&#34;http://pro-culture-in.ch/&#34;&gt;pro-culture-in.ch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;die-refugees:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Die Refugees&lt;/h3&gt;
-
-&lt;p&gt;Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Kontakt</title>
       <link>http://therefugees.ch/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,46 +35,32 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
-      <title>Nachricht verschickt, danke!</title>
-      <link>http://therefugees.ch/message-sent/</link>
+      <title>Über Uns</title>
+      <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://therefugees.ch/message-sent/</guid>
+      <guid>http://therefugees.ch/about/</guid>
       <description>
 
-&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
+&lt;h2 id=&#34;wer-wir-sind:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Wer wir sind:&lt;/h2&gt;
 
-&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://therefugees.ch/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/index.html</guid>
-      <description>
+&lt;p&gt;Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten.&lt;/p&gt;
 
-&lt;h1 id=&#34;center-refugees-center:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Refugees&lt;/center&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;denis-nayi:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Denis Nayi&lt;/h3&gt;
 
-&lt;h3 id=&#34;center-ein-theaterstück-über-flucht-traum-und-realität-center:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Ein Theaterstück über Flucht, Traum und Realität.&lt;/center&gt;&lt;/h3&gt;
+&lt;p&gt;Künstler und Choreograph, ist der kreative Kopf von &amp;ldquo;Mama Afrika&amp;rdquo;, bereits seit mehreren Jahren, nicht nur im Fürstentum Liechtenstein, sondern auch in Amerika.&lt;/p&gt;
 
-&lt;p&gt;&lt;p&gt;
-&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/premieregross.jpg&#34;/&gt;&lt;/p&gt;&lt;/center&gt;
-  &lt;span style=&#34;color:#2B1804&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alice-schönenberger:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Alice Schönenberger&lt;/h3&gt;
 
-&lt;h2 id=&#34;center-span-style-color-ff8810-news-neue-vorstellung-in-zürich-am-24-02-16-span:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;News: Neue Vorstellung in Zürich am 24.02.16 ! &lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit.&lt;/p&gt;
 
-&lt;h3 id=&#34;center-wo-kulturhaus-helferei-zürich-http-www-kulturhaus-helferei-ch:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Wo: &lt;a href=&#34;http://www.kulturhaus-helferei.ch/&#34;&gt;Kulturhaus Helferei Zürich&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;petra-angelika-bublitz:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Petra Angelika Bublitz&lt;/h3&gt;
 
-&lt;h3 id=&#34;center-wann-19-uhr-türoffnung-apero-ab-17-uhr:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Wann: 19 Uhr (Türoffnung &amp;amp; Apero ab 17 Uhr)&lt;/h3&gt;
+&lt;p&gt;Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. Sie ist Initiatorin von &lt;a href=&#34;http://pro-culture-in.ch/&#34;&gt;pro-culture-in.ch&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.6932270423254!2d8.542895752630715!3d47.37041482014723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa0abc92eeeff%3A0x3aa86abfaee0c41f!2sKulturhaus+Helferei!5e0!3m2!1sde!2sch!4v1454019240354&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;die-refugees:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Die Refugees&lt;/h3&gt;
 
-&lt;h3 id=&#34;span-style-color-ff8810-unser-neuer-flyer-http-www-therefugees-ch-flyerzurich-jpg-für-mehr-infos-rückseite-http-www-therefugees-ch-flyerzurich-b-jpg-span:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;Unser neuer &lt;a href=&#34;http://www.therefugees.ch/flyerzurich.jpg&#34;&gt;Flyer&lt;/a&gt; für mehr Infos. &lt;a href=&#34;http://www.therefugees.ch/flyerzurich-b.jpg&#34;&gt;Rückseite&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
-
-&lt;h2 id=&#34;ticketreservation-http-goo-gl-forms-jxc9vab90k:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://goo.gl/forms/jXC9vaB90k&#34;&gt;Ticketreservation&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft&lt;/p&gt;
 </description>
     </item>
     
@@ -162,29 +118,46 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
-      <title>Unterstütze uns</title>
-      <link>http://therefugees.ch/support/</link>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://therefugees.ch/message-sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://therefugees.ch/support/</guid>
+      <guid>http://therefugees.ch/message-sent/</guid>
       <description>
 
-&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
 
-&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://therefugees.ch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/index.html</guid>
+      <description>
 
-&lt;ul&gt;
-&lt;li&gt;Wir sind dankbar für Spenden aller Art&lt;/li&gt;
-&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
-&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/li&gt;
-&lt;li&gt;Wir suchen Spielstätten für das kommende Jahr&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&#34;center-refugees-center:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Refugees&lt;/center&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;br/&gt;
-&lt;p&gt;
-Denis Nayi wird unterstützt von: &lt;br/&gt;
-Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, Barbara Ellenberger
-&lt;/p&gt;&lt;/p&gt;
+&lt;h3 id=&#34;center-ein-theaterstück-über-flucht-traum-und-realität-center:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Ein Theaterstück über Flucht, Traum und Realität.&lt;/center&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;
+&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/premieregross.jpg&#34;/&gt;&lt;/p&gt;&lt;/center&gt;
+  &lt;span style=&#34;color:#2B1804&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;center-span-style-color-ff8810-news-neue-vorstellung-in-zürich-am-24-02-16-span:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;News: Neue Vorstellung in Zürich am 24.02.16 ! &lt;/span&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;center-wo-kulturhaus-helferei-zürich-http-www-kulturhaus-helferei-ch:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Wo: &lt;a href=&#34;http://www.kulturhaus-helferei.ch/&#34;&gt;Kulturhaus Helferei Zürich&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;center-wann-19-uhr-türöffnung-apero-ab-17-uhr:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;center&gt; Wann: 19 Uhr (Türöffnung &amp;amp; Apero ab 17 Uhr)&lt;/h3&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1910.6932270423254!2d8.542895752630715!3d47.37041482014723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa0abc92eeeff%3A0x3aa86abfaee0c41f!2sKulturhaus+Helferei!5e0!3m2!1sde!2sch!4v1454019240354&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;span-style-color-ff8810-unser-neuer-flyer-http-www-therefugees-ch-flyerzurich-jpg-für-mehr-infos-rückseite-http-www-therefugees-ch-flyerzurich-b-jpg-span:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;Unser neuer &lt;a href=&#34;http://www.therefugees.ch/flyerzurich.jpg&#34;&gt;Flyer&lt;/a&gt; für mehr Infos. &lt;a href=&#34;http://www.therefugees.ch/flyerzurich-b.jpg&#34;&gt;Rückseite&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+
+&lt;h2 id=&#34;ticketreservation-http-goo-gl-forms-jxc9vab90k:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://goo.gl/forms/jXC9vaB90k&#34;&gt;Ticketreservation&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -212,6 +185,33 @@ Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyerzurich.jpg&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unterstütze uns</title>
+      <link>http://therefugees.ch/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/support/</guid>
+      <description>
+
+&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
+
+&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wir sind dankbar für Spenden aller Art&lt;/li&gt;
+&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
+&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/li&gt;
+&lt;li&gt;Wir suchen Spielstätten für das kommende Jahr&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;p&gt;
+Denis Nayi wird unterstützt von: &lt;br/&gt;
+Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, Barbara Ellenberger
+&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
