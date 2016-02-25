@@ -16,8 +16,6 @@ Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:
 
 <br/>
 <p>
-Denis Nayi wird unterstützt von: <br/>
-Pippilotti Rist, Gottfried Bechthold, Roswitha Dörig, Barbara Ellenberger
-</p>
+
 
 

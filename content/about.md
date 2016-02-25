@@ -15,8 +15,8 @@ Künstler und Choreograph, ist der kreative Kopf von "Mama Afrika", bereits seit
 Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit.
 
 ### Petra Angelika Bublitz
-Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. Sie ist Initiatorin von [pro-culture-in.ch](http://pro-culture-in.ch/).
+Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben.
 
 ### Die Refugees
-Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft
+Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft.
 
