@@ -14,7 +14,7 @@ Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu
 Flüchtlinge. Krise. Der Traum von Europa. </br>
 Kein anderes Thema ist so brandaktuell, dass die Medienwelt uns regelrecht flutet mit neuen Berichten. Von allen Seiten hagelt es Kritik, und zuletzt spüren alle nur eins: Überforderung. </br>
 Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
+Gerade desshalb wollten wir ein Theater-Projekt ins Leben rufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.
 
 ### Ziele: 
 
