@@ -7,7 +7,7 @@ weight = 900
 
 ## Interessiert? 
 
-Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns: 
+Dann werde auch ein Teil von Refugees und unterstütze uns: 
 
  - Wir sind dankbar für Spenden aller Art
  - Empfehlen Sie uns weiter
@@ -16,6 +16,7 @@ Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:
 
 <br/>
 <p>
+
 
 
 

@@ -4,14 +4,11 @@ title = "Presse"
 weight = 800
 name = "Presse"
 +++
-## Presse
-
-### Pressebeiträge zu Refugees
+## Pressebeiträge zu Refugees
 
 *  <a href="/VaterlandKritik.pdf">
     02.12.15 Alleine unter so vielen Menschen
   </a>
-
 
 
 *  <a href="/vaterland.pdf">
