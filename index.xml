@@ -65,20 +65,6 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
-      <title>Nachricht verschickt, danke!</title>
-      <link>http://therefugees.ch/message-sent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/message-sent/</guid>
-      <description>
-
-&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
-
-&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Presse</title>
       <link>http://therefugees.ch/presse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,6 +148,20 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
+      <title>Nachricht verschickt, danke!</title>
+      <link>http://therefugees.ch/message-sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/message-sent/</guid>
+      <description>
+
+&lt;h1 id=&#34;danke:f5ada13fe895e9a0030f45b77e053a6e&#34;&gt;Danke&lt;/h1&gt;
+
+&lt;p&gt;Deine Nachricht wurde verschickt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Das Projekt</title>
       <link>http://therefugees.ch/projekt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -180,7 +180,7 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. &lt;/br&gt;
 Kein anderes Thema ist so brandaktuell, dass die Medienwelt uns regelrecht flutet mit neuen Berichten. Von allen Seiten hagelt es Kritik, und zuletzt spüren alle nur eins: Überforderung. &lt;/br&gt;
 Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
+Gerade desshalb wollten wir ein Theater-Projekt ins Leben rufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
 
 &lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
 
@@ -192,30 +192,6 @@ Gerade desshalb haben Denis Nayi und Alice Schönenbeger ein Theater-Projekt ins
 &lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
 &lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unterstütze uns</title>
-      <link>http://therefugees.ch/support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/support/</guid>
-      <description>
-
-&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
-
-&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wir sind dankbar für Spenden aller Art&lt;/li&gt;
-&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
-&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/li&gt;
-&lt;li&gt;Wir suchen Spielstätten für das kommende Jahr&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;p&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -243,6 +219,30 @@ Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyerzurich.jpg&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unterstütze uns</title>
+      <link>http://therefugees.ch/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/support/</guid>
+      <description>
+
+&lt;h2 id=&#34;interessiert:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Interessiert?&lt;/h2&gt;
+
+&lt;p&gt;Dann werden auch Sie ein Teil von Refugees und unterstützen sie uns:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wir sind dankbar für Spenden aller Art&lt;/li&gt;
+&lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
+&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/li&gt;
+&lt;li&gt;Wir suchen Spielstätten für das kommende Jahr&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;p&gt;&lt;/p&gt;
 </description>
     </item>
     
