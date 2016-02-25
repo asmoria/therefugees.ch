@@ -11,10 +11,6 @@
   </url>
   
   <url>
-    <loc>http://therefugees.ch/message-sent/</loc>
-  </url>
-  
-  <url>
     <loc>http://therefugees.ch/contact/</loc>
   </url>
   
@@ -23,15 +19,19 @@
   </url>
   
   <url>
+    <loc>http://therefugees.ch/message-sent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://therefugees.ch/index.html</loc>
+  </url>
+  
+  <url>
     <loc>http://therefugees.ch/stueck/</loc>
   </url>
   
   <url>
     <loc>http://therefugees.ch/support/</loc>
-  </url>
-  
-  <url>
-    <loc>http://therefugees.ch/index.html</loc>
   </url>
   
   <url>
