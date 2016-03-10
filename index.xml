@@ -9,58 +9,6 @@
     <atom:link href="http://therefugees.ch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Kontakt</title>
-      <link>http://therefugees.ch/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/contact/</guid>
-      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
-&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
-    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
-    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
-    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
-    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
-    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
-&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
-Texte &amp;amp; Inhalte by Alice Schönenberger
-&lt;br/&gt;
-Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Über Uns</title>
-      <link>http://therefugees.ch/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;wer-wir-sind:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Wer wir sind:&lt;/h2&gt;
-
-&lt;p&gt;Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten.&lt;/p&gt;
-
-&lt;h3 id=&#34;alice-schönenberger:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Alice Schönenberger&lt;/h3&gt;
-
-&lt;p&gt;Diplomierte Bewegungsschauspielerin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Mit Refugees wagt sie den Schritt in die Regiearbeit.&lt;/p&gt;
-
-&lt;h3 id=&#34;petra-angelika-bublitz:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Petra Angelika Bublitz&lt;/h3&gt;
-
-&lt;p&gt;Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben.&lt;/p&gt;
-
-&lt;h3 id=&#34;die-refugees:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Die Refugees&lt;/h3&gt;
-
-&lt;p&gt;Das sind Flüchtlinge verschiedenen Alters und unterschiedlicher Herkunft.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://therefugees.ch/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -87,6 +35,100 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;h3 id=&#34;span-style-color-ff8810-unser-neuer-flyer-http-www-therefugees-ch-flyerzurich-jpg-für-mehr-infos-rückseite-http-www-therefugees-ch-flyerzurich-b-jpg-span:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;Unser neuer &lt;a href=&#34;http://www.therefugees.ch/flyerzurich.jpg&#34;&gt;Flyer&lt;/a&gt; für mehr Infos. &lt;a href=&#34;http://www.therefugees.ch/flyerzurich-b.jpg&#34;&gt;Rückseite&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
 
 &lt;h2 id=&#34;ticketreservation-http-goo-gl-forms-jxc9vab90k:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://goo.gl/forms/jXC9vaB90k&#34;&gt;Ticketreservation&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Projekt</title>
+      <link>http://therefugees.ch/projekt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/projekt/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
+
+&lt;p&gt;Refugees ist ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur und lebt von den Improvisationen und Erzählungen der Darsteller, fordert und fördert den direkten Austausch.&lt;/p&gt;
+
+&lt;p&gt;Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv die Integration zu fördern.&lt;/p&gt;
+
+&lt;h2 id=&#34;theater:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Theater&lt;/h2&gt;
+
+&lt;p&gt;Auf einer Bühne stehen, sich mit Bewegung oder Worten auszudrücken erfordert viel Mut. Theater ist jedoch viel mehr als das, es aktiviert uns und eröffnet eine Chance uns mitzuteilen und auszutauschen, Selbstvertrauen zu finden und fordert jeden individuel dazu auf sich selber ein Bild zu generieren. Sowohl den Spielenden als auch den Zuschauer. Eine Art Symbiose entsteht, ein einmaliges Erlebnis - der Zauber des Theaters.&lt;/p&gt;
+
+&lt;p&gt;Theater verbindet interdisziplinäre Künste, sei es Musik, Tanz, Film, Literatur; sie alle fliessen auf der Bühne zu einem gemeinsamen Konstrukt und Begenungsort.&lt;/p&gt;
+
+&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
+
+&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. &lt;/br&gt;
+Kein anderes Thema ist so brandaktuell, dass die Medienwelt uns regelrecht flutet mit neuen Berichten. Von allen Seiten hagelt es Kritik, und zuletzt spüren alle nur eins: Überforderung. &lt;/br&gt;
+Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
+Gerade desshalb haben wir ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
+
+&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
+&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
+&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
+&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
+&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
+&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Stück</title>
+      <link>http://therefugees.ch/stueck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/stueck/</guid>
+      <description>
+
+&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
+
+&lt;p&gt;Weltweit befinden sich derzeit mehr als 45 Millionen Menschen auf der Flucht oder leben in flüchtlingsähnlichen Situationen. Für sie gibt es nur diesen letzten Ausweg.
+Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne&amp;hellip;&lt;br/&gt;&lt;br/&gt;
+Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit abseits der Politik.&lt;/p&gt;
+
+&lt;p&gt;Das Stück ist multilingual mit viel Musik und Tanz! Ein wenig Deutschkenntnisse können jedoch nicht schaden.
+&lt;p style=&#34;display: block; width: 640px; margin: 0px auto 0px auto;&#34;&gt;
+&lt;center&gt;&lt;FONT SIZE=&#34;4.5&#34;&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;
+Idee, Buch &amp;amp; Regie: Denis Nayi &amp;amp; Alice Schönenberger &lt;br/&gt;
+Produktionsleitung: Petra Angelika Bublitz&lt;br/&gt;
+Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova&lt;br/&gt;
+Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
+&lt;/FONT&gt;&lt;/Span&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyerzurich.jpg&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://therefugees.ch/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://therefugees.ch/contact/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Schick uns eine Nachricht&lt;/h2&gt;
+&lt;form action=&#34;//formspree.io/projekt.refugees@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;E-Mail:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34;&gt;
+    &lt;label for=&#34;content&#34;&gt;Nachricht:&lt;/label&gt;
+    &lt;textarea name=&#34;content&#34; rows=&#34;10&#34; cols=&#34;50&#34;&gt;&lt;/textarea&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Abschicken&#34;&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_next&#34; value=&#34;http://therefugees.ch/message-sent&#34; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;
+&lt;FONT SIZE=&#34;2&#34;&gt;© 2015 www.therefugees.ch &lt;br/&gt;
+Texte &amp;amp; Inhalte by Alice Schönenberger
+&lt;br/&gt;
+Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ssoosay/6709143501/in/photolist-bdS7BX&#34;&gt;Surian Soosay&lt;/a&gt; &lt;/FONT SIZE=&#34;2&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -153,7 +195,7 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
 &lt;ul&gt;
 &lt;li&gt;Wir sind dankbar für Spenden aller Art&lt;/li&gt;
 &lt;li&gt;Empfehlen Sie uns weiter&lt;/li&gt;
-&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen.&lt;/li&gt;
+&lt;li&gt;Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. Wir sind offen für alle!&lt;/li&gt;
 &lt;li&gt;Wir suchen Spielstätten für das kommende Jahr&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -163,65 +205,29 @@ Bild &lt;i&gt;Darfur Refugee in Chad&lt;/i&gt; by &lt;a href=&#34;https://www.fl
     </item>
     
     <item>
-      <title>Das Stück</title>
-      <link>http://therefugees.ch/stueck/</link>
+      <title>Über Uns</title>
+      <link>http://therefugees.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://therefugees.ch/stueck/</guid>
+      <guid>http://therefugees.ch/about/</guid>
       <description>
 
-&lt;h2 id=&#34;das-stück:a8c81109829bb31c4709931a6d7aa6ec&#34;&gt;Das Stück&lt;/h2&gt;
+&lt;h2 id=&#34;wer-wir-sind:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Wer wir sind:&lt;/h2&gt;
 
-&lt;p&gt;Weltweit befinden sich derzeit mehr als 45 Millionen Menschen auf der Flucht oder leben in flüchtlingsähnlichen Situationen. Für sie gibt es nur diesen letzten Ausweg.
-Es gibt kein Zurück. Nur ein langer beschwerlicher Weg nach vorne&amp;hellip;&lt;br/&gt;&lt;br/&gt;
-Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre Hoffnungen und Ängste und ihnen somit eine Plattform bietet, ihre Geschichten zu teilen. Dabei bleibt Refugees frei von Moral und sucht weder Täter noch Opfer sondern zeigt die Schönheit abseits der Politik.&lt;/p&gt;
+&lt;p&gt;Hinter Refugees steht ein Team aus Menschen, die sich gerne für Andere einsetzen und etwas in der Gesellschaft bewegen möchten.
+Wir sind offen Menschen, die sich ehrenamtlich betätigen wollen, egal ob auf oder neben der Bühne.&lt;/p&gt;
 
-&lt;p style=&#34;display: block; width: 640px; margin: 0px auto 0px auto;&#34;&gt;
-&lt;center&gt;&lt;FONT SIZE=&#34;4.5&#34;&gt;&lt;span style=&#34;color:#FF8810&#34;&gt;
-Idee, Buch &amp; Regie: Denis Nayi &amp; Alice Schönenberger &lt;br/&gt;
-Produktionsleitung: Petra Angelika Bublitz&lt;br/&gt;
-Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova&lt;br/&gt;
-Tanz: Monika Mayer-Pavlidis &lt;/br&gt;
-&lt;/FONT&gt;&lt;/Span&gt;
-&lt;/p&gt;
+&lt;h3 id=&#34;alice-schönenberger:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Alice Schönenberger&lt;/h3&gt;
 
-&lt;p&gt;Refugees durfte bereits in Vaduz FL und Zürich aufgeführt werden&lt;/p&gt;
+&lt;p&gt;Mit-Initiatorin von &amp;ldquo;Refugees&amp;rdquo;, diplomierte Bewegungsschauspielerin und Regisseurin aus St.Gallen mit Wurzeln im Liechtenstein, sie lebt und arbeitet in Zürich. Sie ist Bastelgenie und Macherin, mit dem Reisetheater stets auf Tournee, auf und neben der Bühne in vielen Kleintheaterprojekten tätig.&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://therefugees.ch/flyerzurich.jpg&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Das Projekt</title>
-      <link>http://therefugees.ch/projekt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://therefugees.ch/projekt/</guid>
-      <description>
+&lt;h3 id=&#34;petra-angelika-bublitz:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Petra Angelika Bublitz&lt;/h3&gt;
 
-&lt;h2 id=&#34;das-projekt-refugees:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Das Projekt Refugees&lt;/h2&gt;
+&lt;p&gt;Powerfrau und Organisationstalent aus Berlin, seit 2008  in der Schweiz lebend, freut sich, bei Refugees als Projektleiterin ihr Potential auszuleben. Sie ist Mitgründerin der Initiative praktische Hilfe Liechtenstein&lt;/p&gt;
 
-&lt;p&gt;Refugees ist ein vielseitiges Projekt, mit der Idee sich an jedem beliebigen Ort der Welt umsetzen zu lassen. Ganz egal woher wir kommen oder welche Sprache wir sprechen. Das Stück bietet dabei eine Grundstruktur und lebt von den Improvisationen und Erzählungen der Darsteller, fordert und fördert den direkten Austausch.&lt;/p&gt;
+&lt;h3 id=&#34;die-refugees:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Die Refugees&lt;/h3&gt;
 
-&lt;p&gt;Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu bringen und so aktiv die Integration zu fördern.&lt;/p&gt;
-
-&lt;h2 id=&#34;warum:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Warum?&lt;/h2&gt;
-
-&lt;p&gt;Flüchtlinge. Krise. Der Traum von Europa. &lt;/br&gt;
-Kein anderes Thema ist so brandaktuell, dass die Medienwelt uns regelrecht flutet mit neuen Berichten. Von allen Seiten hagelt es Kritik, und zuletzt spüren alle nur eins: Überforderung. &lt;/br&gt;
-Dabei geht vor allem einer in der ganzen Tragödie vergessen: Der Mensch in Mitten von Politik, Schleppern und Grenzübergängen.
-Gerade desshalb haben wir ein Theater-Projekt ins Leben gerufen, welches die Menschen selber zu Wort kommen lässt. Keine “fugitives” sondern “refugees”, Menschen mit Geschichten, Wünschen und Träumen, die nicht einfach die Flucht ergreifen, sondern eine Reise antreten ins Ungewisse.&lt;/p&gt;
-
-&lt;h3 id=&#34;ziele:ade8f5e1db55456a78a2f3934c1f143e&#34;&gt;Ziele:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Flüchtlingen eine Plattform bieten, eine Stimme geben&lt;/li&gt;
-&lt;li&gt;Den interkulturellen Austausch und die Integration fördern&lt;/li&gt;
-&lt;li&gt;Eine Kollektiv-Arbeit starten&lt;/li&gt;
-&lt;li&gt;Andere Sichtweisen auf ein kontroverses Thema eröffnen&lt;/li&gt;
-&lt;li&gt;Die Schönheit der Kulturen teilen&lt;/li&gt;
-&lt;li&gt;Flüchtlingshilfe leisten&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Das sind Asylsuchende verschiedenen Alters und unterschiedlicher Herkunft.&lt;/p&gt;
 </description>
     </item>
     
