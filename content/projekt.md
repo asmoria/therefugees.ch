@@ -13,7 +13,7 @@ Im Vordergrund steht  die Idee, Menschen aus verschieden Kulturen sich näher zu
 
 Auf einer Bühne stehen, sich mit Bewegung oder Worten auszudrücken erfordert viel Mut. Theater ist jedoch viel mehr als das, es aktiviert uns und eröffnet eine Chance uns mitzuteilen und auszutauschen, Selbstvertrauen zu finden und fordert jeden individuel dazu auf sich selber ein Bild zu generieren. Sowohl den Spielenden als auch den Zuschauer. Eine Art Symbiose entsteht, ein einmaliges Erlebnis - der Zauber des Theaters. 
 
-Theater verbindet interdisziplinäre Künste, sei es Musik, Tanz, Film, Literatur; sie alle fliessen auf der Bühne zu einem gemeinsamen Konstrukt und Begenungsort.
+Theater verbindet interdisziplinäre Künste, sei es Musik, Tanz, Film, Literatur; sie alle fliessen auf der Bühne zu einem gemeinsamen Konstrukt und Begenungsort. "Refugees" setzt diesen Austausch ganz bewusst ein, so bedienen wir uns verschiedenen Elementen aus Bewegungstheater, Musik und Tanz. 
 
 ## Warum?
 
