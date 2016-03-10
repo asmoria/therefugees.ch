@@ -11,7 +11,7 @@ Dann werde auch ein Teil von Refugees und unterstütze uns:
 
  - Wir sind dankbar für Spenden aller Art
  - Empfehlen Sie uns weiter
- - Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. 
+ - Lust zu helfen? Bei den Vorstellungen bzw. Aufbau/Transport/Apero/usw. können wir jede Hand gebrauchen. Wir sind offen für alle! 
 - Wir suchen Spielstätten für das kommende Jahr 
 
 <br/>
