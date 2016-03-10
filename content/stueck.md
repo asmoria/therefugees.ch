@@ -13,7 +13,7 @@ Refugees ist ein Theaterstück, welches die Gefühle dieser Menschen zeigt, ihre
 Das Stück ist multilingual mit viel Musik und Tanz! Ein wenig Deutschkenntnisse können jedoch nicht schaden. 
 <p style="display: block; width: 640px; margin: 0px auto 0px auto;">
 <center><FONT SIZE="4.5"><span style="color:#FF8810">
-Idee, Buch & Regie: Denis Nayi & Alice Schönenberger <br/>
+Regie: Denis Nayi & Alice Schönenberger <br/>
 Produktionsleitung: Petra Angelika Bublitz<br/>
 Musik: Schoschana Kobelt, Viviane Hasler und Asia Ahmetjanova<br/>
 Tanz: Monika Mayer-Pavlidis </br>
@@ -21,5 +21,4 @@ Tanz: Monika Mayer-Pavlidis </br>
 </p>
 
 <center><img src="/flyerzurich.jpg" /></center>
-
 
