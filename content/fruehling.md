@@ -5,8 +5,8 @@ weight = 750
 
 <center><img src="/fruehlingflyer.png"/></p>
 
-Gerne lade ich das Refugees-Team zum Helferfest am Sa 09.04 in ungezwungener Atmosphäre im [Haus am Gleis](Hausamgleis.li)<br> Dort findet ihr Impressionen, Anfahrt und was ihr sonst noch benötigt. 
-Selbstverständlich dürft ihr auch gerne in Begleitung eurer Liebsten kommen! 
+### Gerne lade ich das Refugees-Team zum Helferfest am Sa 09.04 in ungezwungener Atmosphäre im schnuckeligen [Haus am Gleis](Hausamgleis.li)
+Selbstverständlich dürft ihr auch gerne in Begleitung eurer Liebsten kommen! <br> 
 
 Es wird keine grosse Sache, dafür aber ein buntes, verrücktes Gartenfest und mit der Option auch selber etwas beizutragen. Zwischen Hula Hupp und Omas altem Wäschezuber. Im wechselhaften April ist alles erlaubt. ;-) Ich freue mich über spontane Einfälle! 
 
